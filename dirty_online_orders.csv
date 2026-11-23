@@ -1,0 +1,504 @@
+order_id,order_date,customer_name,email,phone,country,product_category,product_name,quantity,unit_price,discount_pct,payment_method,order_status,delivery_date,rating
+ORD-1317,2026-06-04,Daniel Smith,,+27805426738,Deutschland,Books,SQL Cookbook,1,38.0,5,Cash on Delivery,Deliverd,2026-06-09,4
+ORD-1041,14/07/2026,Hannah Nkosi,hannah.nkosi46@example.com,+27680158223,Germany,Books,Statistics Primer,5,30.0,20,Debit Card,Deliverd,2026-07-24,2
+ORD-1259,2026-07-31,Fatima Williams,fatima.williams71@example.com,N/A,Germany,Books,Statistics Primer,4,30.0,10,Credit Card,Cancelled,,N/A
+ORD-1029,"Aug 29, 2026",Sofia Khan,sofia.khan59@example.com,+27693860718,United Kingdom,Home & Kitchen,Coffee Grinder,1,40.0,15,Debit Card,Delivered,2026-09-05,1
+ORD-1313,2026-08-17,Hannah Dlamini,hannah.dlamini38@example.com,+27841130633,NULL,Home & Kitchen,Knife Set,5,55.0,0,PayPal,Returned,2026-08-20,1
+ORD-1329,2026/10/24,Yuki Garcia,yuki.garcia49@example.com,+27775469631,Germany,Sports,Yoga Mat,5,20.0,0,Debit Card,Delivered,2026-11-02,3
+ORD-1237,2026-07-02,Kwame Dlamini,kwame.dlamini87@example.com,+27680219443,U.K.,Home & Kitchen,Air Fryer,4,110.0,20,EFT,Delivered,2026-07-08,1
+ORD-1221,2026-07-04,Ahmed Johnson,NULL,+27831072999,kenya,Books,SQL Cookbook,5,38.0,15,Cash on Delivery,Delivered,2026-07-08,1
+ORD-1388,2026/09/19,YUKI JOHNSON,yuki.johnson13@example.com,+27610129761,Germany,Sports,Dumbbell Set,2,90.0,0,Debit Card,Delivered,2026-09-25,2
+ORD-1083,2026/03/01,JAMES DLAMINI,james.dlamini5@example.com,+27681702244,Germany,Electronics,Wireless Mouse,,25.0,10,CREDIT CARD,Delivered,2026-03-09,5
+ORD-1302,2026-10-11,Liam Khan,liam.khan27@example.com,(767)548710,Australia,Sports,Running Belt,2,15.00 USD,15,Debit Card,Delivered,2026-10-19,0
+ORD-1179,2026/09/05,Hannah Nkosi,hannah.nkosi1@example.com,+27742864700,Kenya,Books,Data Science Handbook,1,45.0,10,Credit Card,Shipped,,
+ORD-1393,2026-05-15,sipho van der merwe,sipho.vandermerwe65@example.com,+27716632819,Australia,Home & Kitchen,Coffee Grinder,4,40.0,10,Cash on Delivery,Delivered,2026-05-21,5
+ORD-1200,2026-03-31,Yuki Garcia  ,yuki.garcia43@example.com,+27750283309,Germany,Books,Data Science Handbook,4,$45.00,15,null,Delivered,2026-04-09,4
+ORD-1114,2026-05-26,Oliver Williams,oliver.williams69@example.com,+27664201304,United Kingdom,Books,Data Science Handbook,3,45.0,15,EFT,Returned,2026-06-05,3
+ORD-1111,"Feb 13, 2026",Priya Van der Merwe,priya.vandermerwe83@example.com,+27812510139,United Kingdom,Home & Kitchen,Air Fryer,4,110.0,10,PayPal,Delivered,2026-02-20,2
+ORD 1161,2026-05-07,  Daniel Smith  ,daniel.smith68@example.com,+27719922996,-,Sports,Yoga Mat,5,20.0,0,Cash on Delivery,Delivered,2026-05-13,5
+ORD-1276,10-07-26,Chen Brown,chen.brown60@example.com,+27828495989,South Africa,Books,Data Science Handbook,-2,45.0,10 %,-,Returned,2026-07-20,2
+ord-1267,2026-04-13,Lerato Williams,lerato.williams5example.com,+27722527007,South Africa,Sports,Dumbbell Set,3,90.0,0,Credit Card,Cancelled,,
+ORD-1105,2026-03-16,Chen Khan,chen.khan23@example.com,+27761705246,US,Electronics,Bluetooth Speaker,4,60.0,5,Cash on Delivery,Shipped,,
+ORD-1269,2026-01-15,Kwame Dlamini  ,kwame.dlamini21@example.com,+27829195916,Kenya,Home & Kitchen,Coffee Grinder,2,40.0,15,Credit Card,Delivered,2026-01-24,5
+ORD-1014,"Oct 11, 2026",Sofia Williams,sofia.williams1@example.com,+27619057061,Australia,Electronics,Bluetooth Speaker,1,$60.00,0,Debit Card,Cancelled,2026-09-01,5
+ORD 1392,2026-10-22,Carlos Smith,carlos.smith29@example.com,+27715946849,United Kingdom,books,Data Science Handbook,2,45.0,0,EFT,Delivered,2026-10-25,5
+1470,2026-09-12,daniel williams,daniel.williams9@example.com,+27815943851,United States,Books,SQL Cookbook,4,38.0,0,PayPal,Delivered,2026-09-17,3
+ORD-1430,2026-01-23,Daniel Smith  ,daniel.smith43@example.com,+27725326045,South Africa,Electronics,Headphones,999,80.0,0,PayPal,Delivered,2026-01-29,3
+ORD-1425,2026-09-03,  Hannah Dlamini,hannah.dlamini83@example.com,+27636441159,Germany,Home & Kitchen,Blender,5,70.0,0,Debit Card,Delivered,2026-09-06,5
+ORD-1188,2026-05-19,Ayesha Johnson,ayesha.johnson12@example.com,+27650302599,Germany,Books,Statistics Primer,5,30.0,10,Cash on Delivery,Delivered,2026-05-23,3
+ORD-1245,2026-10-22,Kwame Lee,kwame.lee23@example.com,+27647271583,United States,Sports,Running Belt,5,15.0,0,Cash on Delivery,shipped,,
+ORD-1352,2026/09/19,Chen Van der Merwe,chen.vandermerwe29@example.com,+27801372061,kenya,Home & Kitchen,Air Fryer,5,110.0,20,Debit Card,Delivered,2026-09-22,5
+ORD-1408,2026-04-15,Sipho Garcia,sipho.garcia57@example.com,+27832768169,Kenya,Books,Statistics Primer,3,30.0,20,Paypal,Delivered,2026-04-24,
+ORD-1429,2026-09-05,Carlos Brown,carlos.brown42@example.com,+27638465470,South Africa,Home & Kitchen,Coffee Grinder,1,40.0,5,Debit Card,Delivered,2026-09-09,1
+ORD-1164,2026-02-07,Lerato Jones,lerato.jones45@example.com,+27788008135,South Africa,Electronics,Wireless Mouse,4,25.0,0,Debit Card,Delivered,2026-02-12,4
+ORD-1014,"Oct 11, 2026",Sofia Williams,sofia.williams1@example.com,+27619057061,Australia,Electronics,Bluetooth Speaker,1,$60.00,0,Debit Card,Cancelled,2026-09-01,5
+ORD-1467,2026/02/02,Yuki Brown,yuki.brown64@example.com,+27743328439,Germany,Electronics,Wireless Mouse,-2,25.0,0,Credit Card,Delivered,2026-02-05,4
+ORD-1183,2026-04-28,Liam Silva,liam.silva35@example.com,+27612498883,South Africa,Sport,Yoga Mat,2,20.0,20,Credit Card,Delivered,2026-05-03,4
+ORD-1035,2026-05-26,Carlos Naidoo,carlos.naidoo12@example.com,+27819693874,United States,Sports,Dumbbell Set,2,90.0,0,Credit Card,Delivered,2026-06-05,5
+ORD 1018,04/10/2026,Thabo Smith,thabo.smith97@example.com,+27827820026,United States,Home & Kitchen,Blender,4,70.0,5,EFT,Delivered,2026-10-07,2
+ORD-1380,2026-06-15,Nomsa Naidoo,nomsa.naidoo15@example.com,+27625838603,Kenya,Electronics,Wireless Mouse,2,25.0,0,EFT,Cancelled,,
+ORD-1055,2026-01-28,Yuki Brown,yuki.brown90@example.com,+27633897892,Australia,Books,Data Science Handbook,1,45.0,10,PayPal,DELIVERED,2026-02-07,3
+ORD-1167,2026/04/07,Ayesha Dlamini,ayesha.dlamini85@example.com,+27712539041,Kenya,Electronics,Bluetooth Speaker,2,$60.00,0,Credit Card,Delivered,2026-04-17,5
+ORD-1158,02-09-26,Ahmed Williams,ahmed.williams1@example.com,+27670004014,Germany,Home & Kitchen,Blender,3,$70.00,0,Debit Card,Delivered,2026-09-05,3
+ORD-1166,2026-01-12,Priya Okafor,priya.okafor87@example.com,+27793030318,Kenya,Books,Statistics Primer,4,30.0,20,Debit Card,Delivered,2026-01-11,2
+ORD-1169,2026-06-14,  Sofia Brown,sofia.brown19@example.com,+27777224422,Kenya,Home & Kitchen,Blender,3,70.0,0%,Cash on Delivery,Delivered,2026-06-19,4
+ORD-1450,2026-05-29,Emily Dlamini,N/A,+27847729557,Kenya,Sports,Running Belt,1,15.0,15,Cash on Delivery,Delivered,2026-06-01,3
+ORD-1072,11-02-26,Ahmed Van der Merwe  ,ahmed.vandermerwe41 @ example.com,+27768255122,Australia,Books,Statistics Primer,1,30.0,10,Credit Card,Delivered,2026-02-18,2
+ORD-1025,2026-06-25,Liam Mokoena,liam.mokoena65@example.com,+27731139270,United Kingdom,Electronics,Wireless Mouse,4,25.0,20,Debit Card,Delivered,2026-07-03,2
+ORD-1389,2026-06-03,Sipho Van der Merwe,sipho.vandermerwe73@example.com,+27846392021,United States,Electronics,USB-C Hub,4,35.0,0,Debit Card,Delivered,2026-05-31,5
+ORD-1472,2026-10-25,Lerato Johnson,lerato.johnson13@example.com,(812)346483,AUS,Books,Data Science Handbook,1,45.0,5,CREDIT CARD,Delivered,2026-10-30,1
+ORD-1047,08/02/2026,FATIMA WILLIAMS  ,fatima.williams14@example.com,+27787151321,United Kingdom,Electronics,Headphones,1,80.00 USD,0,Cash on Delivery,Delivered,2026-02-16,1
+ORD-1364,2026-05-20,Yuki Okafor,yuki.okafor18@example.com,+27787266715,Kenya,home & kitchen,Blender,5,70.0,5,EFT,Delivered,2026-05-27,3
+ORD-1441,2026-01-01,james johnson,james.johnson58@example.com,+27742607899,United Kingdom,Books,Statistics Primer,5,$30.00,5,Cash on Delivery,Delivered,2026-01-09,3
+ORD-1334,2026/04/04,Daniel Mokoena,daniel.mokoena22@example.com,+27794397412,Australia,Sports,Water Bottle,5,12.0,10%,Credit Card,Delivered,2026-04-13,2
+ORD-1404,2026-03-11,Nomsa Johnson,nomsa.johnson84@example.com,null,United States,Sports,Yoga Mat,5,20.0,10 %,PayPal,Returned,2026-03-16,3
+ORD-1291,2026-07-14,Maria Nkosi,maria.nkosi88@example.com,+27836209844,AUS,Home & Kitchen,Blender,4,TBD,0,Credit Card,Cancelled,,
+ORD-1462,2026-08-15,Chen Patel,chen.patel5@example.com,+27619574180,South Africa,Sports,Water Bottle,1,12.0,5%,EFT,Delivered,2026-08-18,1
+ORD-1162,2026-03-18,Emily Naidoo,emily.naidoo67@example.com,+27718605671,South Africa,Home&Kitchen,Blender,1,70.0,10,Cash on Delivery,Delivered,2026-03-28,2
+ORD-1265,2026-02-20,Sofia Johnson,sofia.johnson39@example.com,+27799641794,Germany,Sports,Running Belt,4,15.0,10,EFT,Delivered,2026-02-18,2
+ORD-1080,04/10/2026,Maria Mokoena,maria.mokoena22@example.com,+27668979880,Germany,Sports,Running Belt,1,15.0,5,Cash on Delivery,Returned,2026-10-10,4
+ORD-1020,2026-01-26,Fatima Silva,fatima.silva65@example.com,+27846796102,Kenya,Home & Kitchen,Air Fryer,5,110.0,0,PayPal,Cancelled,2026-09-01,5
+ORD-1178,2026-02-08,Lerato Nkosi,lerato.nkosi53@example.com,+27636907600,Australia,Home & Kitchen,Air Fryer,2,110.0,0,Cash on Delivery,Delivered,2026-02-16,1
+ORD-1397,2026-01-12,  Ahmed Khan,ahmed.khan95@example.com,+27744419740,United States,Home & Kitchen,Knife Set,5,55.0,5,Cash on Delivery,Delivered,2026-01-15,null
+ORD-1262,2026-01-07,Daniel Jones,daniel.jones15@example.com,+27711251034,United States,Home & Kitchen,Air Fryer,1,110.0,10,EFT,Shipped,,
+1064,2026-07-30,Hannah Brown,hannah.brown85@example.com,+27707495582,Kenya,Electronics,Webcam,1,45.0,0%,Credit Card,Delivered,2026-08-08,5
+ORD-1045,2026-01-16,Sofia Khan,sofia.khan3@example.com,+27766788520,United States,Home & Kitchen,Coffee Grinder,4,40.0,15,Debit Card,DELIVERED,2026-01-26,3
+ORD-1070,2026-04-30,Nomsa Dlamini,nomsa.dlamini41@example.com,+27799905267,Germany,Books,SQL Cookbook,2,38.0,5,EFT,returned,2026-05-08,1
+ORD-1139,2026-06-26,Kwame Johnson,kwame.johnson98@example.com,+27699466126,Kenya,Electronics,USB-C Hub,2,35.0,5,Credit Card,Delivered,2026-07-02,2
+ORD-1373,2026/06/15,Emily Dlamini,emily.dlamini96@example.com,+27747526743,Kenya,Electronics,USB-C Hub,4,35.0,15,Credit Card,Delivered,2026-06-18,2
+ORD-1340,2026-10-14,Yuki Silva,yuki.silva33@example.com,+27682316560,Kenya,Sports,Water Bottle,2,12.0,20%,EFT,Cancelled,,
+ORD-1477,2026-10-03,Emily Garcia  ,emily.garcia4@example.com,27730207676,Kenya,Electronics,Wireless Mouse,2,25.0,15,PayPal,Delivered,2026-10-11,4
+ORD-1082,2026-02-25,Sofia Silva,sofia.silva4@example.com,+27766308344,Kenya,Sports,Dumbbell Set,1,90.0,15,EFT,Cancelled,,N/A
+ORD-1063,"Aug 15, 2026",  chen garcia  ,chen.garcia75@example.com,unknown,Australia,Books,Data Science Handbook,4,45.0,0,Debit Card,Delivered,2026-08-19,2
+ORD-1043,2026-10-16,Thabo Smith,thabo.smith83@example.com,+27715054864,United States,Books,Data Science Handbook,1,45.0,0,Debit Card,Delivered,2026-10-26,3
+ORD-1124,2026-09-21,Kwame Silva,kwame.silva33@example.com,+27609830312,Australia,Home & Kitchen,Knife Set,3,55.0,20,Debit Card,Shipped,,N/A
+ord-1032,2026-10-03,Liam Lee,liam.lee56@example.com,+27618783450,Australia,Sports,Running Belt,1,15.0,15,EFT,Cancelled,,
+ORD-1235,2026-03-21,Ayesha Garcia,ayesha.garcia58@example.com,(725)105717,United Kingdom,books,Data Science Handbook,5,45.0,0,EFT,Returned,2026-03-31,3
+ORD-1141,13/09/2026,Priya Silva,priya.silva3@example.com,+27624172368,Germany,Books,Data Science Handbook,2,45.0,10,Cash on Delivery,Delivered,2026-09-20,4
+ORD-1264,2026-06-19,Sofia Dlamini,,+27727565411,United Kingdom,Sports,Yoga Mat,3,20.0,20,EFT,Shipped,,
+ORD-1274,18/07/2026,lerato khan,lerato.khan44@example,+27795031746,Australia,Home & Kitchen,Blender,3 ,70.0,10,Credit Card,delivered,2026-07-23,3
+ORD-1001,"Feb 27, 2026",Thabo Mokoena,thabo.mokoena32@example.com,+27659917677,United States,Electronics,Headphones,-1,80.0,10,PayPal,Delivered,2026-03-03,2
+ORD-1434,2026-07-02,Priya Naidoo,priya.naidoo26@example.com,+27791367283,Australia,ELECTRONICS,Webcam,5,45.0,0,EFT,Delivered,2026-07-12,1
+ORD-1280,2026-09-29,Liam Nkosi,liam.nkosi87@example.com,+27601106982,Australia,Home & Kitchen,Coffee Grinder,3,40.0,0,Credit Card,Delivered,2026-10-06,2
+ORD-1419,"Jul 04, 2026",Lerato Smith,lerato.smith99@example.com,+27680341251,United Kingdom,Sports,Water Bottle,1,12.0,20,EFT,Delivered,2026-07-08,3
+ORD-1230,2026-10-11,Oliver Nkosi,oliver.nkosi48@example.com,+27653867253,United Kingdom,Sports,Dumbbell Set,4,90.0,0,PayPal,Delivered,2026-10-17,5
+ORD-1250,2026-07-20,Fatima Dlamini,,+27761702477,United Kingdom,Home & Kitchen,Air Fryer,4,110.0,0,Debit Card,Deliverd,2026-07-26,3
+ORD-1252,2026-08-13,Nomsa Garcia,nomsa.garcia53@example.com,+27732360688,Germany,Sport,Water Bottle,1,12.00 USD,20,EFT,Delivered,2026-08-19,2
+ORD-1094,"Jul 01, 2026",Nomsa Dlamini,nomsa.dlamini37@example.com,+27761171357,U.K.,Sport,Yoga Mat,5,20.00 USD,10,Credit Card,Delivered,2026-07-11,2
+ORD-1349,"Feb 17, 2026",Kwame Naidoo,kwame.naidoo10@example.com,+27748861284,United States,Books,SQL Cookbook,3,38.0,0,PayPal,Cancelled,,
+ORD-1371,2026/06/19,  Sipho Johnson  ,sipho.johnson8@example.com,+27671539008,Germany,Electronics,Headphones,4,80.0,0,credit card,Delivered,2026-06-28,1
+ORD-1406,2026-04-29,Daniel Williams,daniel.williams30@example.com,(784)516597,South Africa,Sports,Yoga Mat,4,20.0,0,PayPal,Delivered,2026-05-09,3
+ORD-1350,2026-09-13,Liam Williams,liam.williams95@example.com,+27664976550,United Kingdom,Home & Kitchen,Coffee Grinder,2,-45.0,20,Credit Card,Delivered,2026-09-21,11
+ORD-1360,27/04/2026,Ahmed Naidoo,ahmed.naidoo84@example.com,+27678210375,AUS,Sports,Water Bottle,3,12.0,5,EFT,Shipped,,
+ORD-1412,2026-10-07,James Van der Merwe,james.vandermerwe53@example.com,+27686828382,Germany,Electronics,Bluetooth Speaker,4,60.0,10,Credit Card,Canceled,,
+ORD-1056,2026-01-27,Chen Silva,chen.silva15@example.com,+27820684989,South Africa,Books,SQL Cookbook,1,38.0,10,Cash on Delivery,Delivered,2026-02-01,2
+ORD-1156,2026-10-06,Carlos Silva,carlos.silva18@example.com,+27828 454 608,NULL,Books,SQL Cookbook,2,free,20,PayPal,DELIVERED,2026-10-16,null
+ORD-1346,2026-01-03,Chen Garcia,chen.garcia53@example.com,+27735892255,South Africa,Electronics,Headphones,3,80.0,0,Cash on Delivery,returned,2026-01-10,5
+ORD-1480,2026/04/14,AHMED JOHNSON,ahmed.johnson5@example.com,+27785813848,Kenya,Electronics,USB-C Hub,2,35.0,0,PayPal,Cancelled,,
+ORD-1208,2026-01-17,Oliver Mokoena,oliver.mokoena45@example.com,+27831444949,South Africa,Books,Data Science Handbook,2,45.0,0,Cash on Delivery,shipped,,
+ORD-1359,27/05/2026,Oliver Johnson,oliver.johnson22@example.com,+27771954559,N/A,Books,Statistics Primer,5,30.0,10,Debit Card,Delivered,2026-05-31,2
+ORD-1257,01-03-26,Priya Van der Merwe  ,priya.vandermerwe61@example.com,+27731290924,Australia,Sports,Yoga Mat,5,20.0,5,EFT,Delivered,2026-03-09,2
+ORD-1433,2026-01-15,Hannah Dlamini,hannah.dlamini14@@example.com,+27702971744,South Africa,Electronics,Webcam,4,45.0,0,CREDIT CARD,Shipped,,
+ORD-1062,"Jan 14, 2026",Sipho Williams  ,-,+27824 400 931,Kenya,Electronics,USB-C Hub,5,35.0,0,Cash on Delivery,Shipped,,
+ORD-1452,31-03-26,Fatima Johnson,fatima.johnson85@example.com,+27719897547,United Kingdom,Home & Kitchen,Knife Set,2,55.0,5,-,Delivered,2026-04-03,3
+1411,2026-08-05,Priya Dlamini,priya.dlamini89@example.com,NULL,United States,Books,Statistics Primer,4,30.0,0,Cash on Delivery,Shipped,,
+ORD-1363,2026-05-26,Oliver Johnson,oliver.johnson17@example.com,+27741396318,United States,Electronics,Wireless Mouse,3,25.0,20,Cash on Delivery,Cancelled,,
+ORD-1015,2026-09-06,Liam Johnson,liam.johnson93@example.com,0836862902,Kenya,Books,Data Science Handbook,4,45.0,20,Debit Card,Delivered,2026-09-10,null
+ORD-1246,07/04/2026,Hannah Brown,hannah.brown23@example.com,+27731650525,South Africa,Electronics,Wireless Mouse,2,25.0,10,Debit Card,Delivered,2026-04-17,1
+ORD-1426,2026-10-17,Ahmed Nkosi,ahmed.nkosi27@example.com,+27754993998,Australia,Sports,Running Belt,1,15.0,0,Cash on Delivery,Delivered,2026-10-25,4
+ORD-1145,2026-06-13,Emily Van der Merwe,emily.vandermerwe79@example.com,+27798459529,U.K.,Sports,Water Bottle,5,12.0,0,Credit Card,Delivered,2026-06-21,3
+ORD-1353,"Jul 21, 2026",Emily Okafor,emily.okafor16@example.com,(787)433598,Kenya,Books,SQL Cookbook,1,38.0,0,Debit Card,Delivered,2026-07-25,3
+ORD-1100,2026-01-04,LIAM BROWN,LIAM.BROWN28@EXAMPLE.COM,+27805983820,United States,Sports,Running Belt,3,15.0,0,PayPal,Delivered,2026-01-13,2
+ord-1421,2026-05-28,Nomsa Naidoo,nomsa.naidoo34@example.com,+27741033632,Kenya,Sports,Dumbbell Set,5,90.0,10,PayPal,Delivered,2026-06-07,4
+ORD-1214,"Jun 25, 2026",Lerato Dlamini,lerato.dlamini13@example.com,27768088785,Germany,Electronics,Wireless Mouse,2,25.0,5,Paypal,Delivered,2026-07-01,2
+ORD-1048,2026-06-24,Thabo Jones,thabo.jones63@example.com,+27628330374,Germany,Sports,Water Bottle,2,12.0,5,Cash on Delivery,Delivered,2026-07-01,5
+ORD-1294,2026-09-09,Ahmed Williams,ahmed.williams43 @ example.com,+27674667236,South Africa,Home & Kitchen,Blender,4,70.0,20,EFT,Delivered,2026-09-19,5
+ORD-1204,2026/03/14,Carlos Van der Merwe  ,carlos.vandermerwe54@example.com,+27760101836,United States,Books,SQL Cookbook,2,38.0,5,PayPal,Delivered,2026-03-19,5
+ORD-1007,2026-02-03,Liam Naidoo,liam.naidoo28@example.com,+27775942977,Germany,Books,Statistics Primer,4,30.0,0,EFT,Deliverd,2026-02-10,5
+ORD-1068,2026-09-18,James Smith,james.smith36@example.com,+27807413401,Germany,Sports,Running Belt,1,15.0,0,CREDIT CARD,Shipped,,
+ORD-1289,2026-03-29,Ahmed Lee,ahmed.lee57@example.com,+27766915055,United Kingdom,Electronics,USB-C Hub,two,35.0,0,EFT,Delivered,2026-04-08,3
+ORD-1400,2026-09-30,Sipho Garcia,sipho.garcia26@example.com,+27734392430,Germany,Electronics,Wireless Mouse,2,25.0,10,Credit Card,Delivered,2026-10-09,2
+ORD-1461,2026-08-14,Sipho Silva,sipho.silva26@example.com,+27763826665,null,Home & Kitchen,Blender,1,70.0,0,Credit Card,Delivered,2026-08-20,5
+ORD-1314,2026-04-20,Nomsa Patel,nomsa.patel27@example.com,+27744352297,AUS,Books,Statistics Primer,1,30.0,15,Credit Card,Delivered,2026-04-30,3
+ORD-1037,2026/04/01,Carlos Okafor,carlos.okafor7@example.com,+27749627479,United States,Electronics,Webcam,2,45.0,20,Cash on Delivery,Delivered,2026-04-09,4
+ORD-1050,14-07-26,Ahmed Nkosi,ahmed.nkosi64@example.com,+27828425912,United Kingdom,Home & Kitchen,Blender,2,70.0,0,Cash on Delivery,Shipped,,
+ORD-1117,2026-01-28,Kwame Lee,-,NULL,South Africa,Sports,Dumbbell Set,1,90.0,0,PayPal,Returned,2026-02-05,2
+ORD-1130,23-09-26,Kwame Patel,kwame.patel34@example.com,+27808027944,United Kingdom,Books,Data Science Handbook,5,45.0,0,PayPal,Delivered,2026-09-29,1
+ORD-1319,2026/07/21,Yuki Smith,yuki.smith40@example.com,+27656385643,Australia,Sports,Dumbbell Set,4,90.0,15,Credit  Card,Cancelled,,
+ORD-1134,2026-02-07,Oliver Okafor,oliver.okafor88@example.com,+27738877771,united kingdom,home & kitchen,Coffee Grinder,2,40.0,5,PayPal,Delivered,2026-02-11,5
+ORD-1007,2026-02-03,Liam Naidoo,liam.naidoo28@example.com,+27775942977,Germany,Books,Statistics Primer,4,30.0,0,EFT,Deliverd,2026-02-10,5
+ORD-1338,2026-01-03,Thabo Patel,thabo.patel67@example.com,+27601931139,Germany,Home & Kitchen,Knife Set,4,55.0,0,Cash on Delivery,Delivered,2026-01-10,3
+ORD-1153,29/09/2026,sofia williams,sofia.williams7@example.com,+27626896684,Germany,Sports,Water Bottle,1,$12.00,15,EFT,Shipped,,
+ORD-1046,"Mar 27, 2026",Daniel Patel,daniel.patel21@example.com,+27683493874,SA,Electronics,USB-C Hub,3 ,$35.00,15,PayPal,Cancelled,,
+ORD-1027,2026-03-07,Lerato Brown,lerato.brown47@example.com,+27841318504,South Africa,Sports,Dumbbell Set,2,90.0,15,PayPal,Delivered,2026-03-05,5
+ORD-1281,2026-01-24,Priya Brown,priya.brown59@example.com,+27795375890,Kenya,Sports,Water Bottle,2,12.0,0,PayPal,Returned,2026-02-01,2
+ORD-1464,2026-07-16,Hannah Patel,hannah.patel73@example.com,+27743694592,United Kingdom,Sports,Running Belt,4,15.0,0,Cash on Delivery,Delivered,2026-07-20,3
+ord-1229,"Sep 15, 2026",Lerato Garcia,lerato.garcia29@example.com,+27815912843,Kenya,Electronics,Webcam,1,free,5,Credit Card,Cancelled,,
+1225,2026-03-12,THABO GARCIA,thabo.garcia64@example.com,NULL,Kenya,Sports,Dumbbell Set,3,90.0,0,Credit Card,Shipped,,
+ORD-1469,2026-01-24,SOFIA JOHNSON,sofia.johnson2@example.com,+27646237740,Australia,Electronics,USB-C Hub,1,35.0,5,Credit Card,Delivered,2026-01-28,1
+ORD-1458,"May 26, 2026",Chen Khan,chen.khan5@example,+27606362047,Kenya,ELECTRONICS,Wireless Mouse,5,25.0,15,Credit Card,Cancelled,,
+ORD-1322,2026-06-18,Daniel Brown,daniel.brown89example.com,+27756811923,United States,Sports,Running Belt,4,15.0,0,Debit Card,Delivered,2026-06-24,4
+ORD-1180,2026-09-15,Nomsa Garcia,nomsa.garcia14@example,+27846436860,South Africa,Home & Kitchen,Coffee Grinder,2,40.0,10,Credit Card,Delivered,2026-09-22,4
+ORD-1346,2026-01-03,Chen Garcia,chen.garcia53@example.com,+27735892255,South Africa,Electronics,Headphones,3,80.0,0,Cash on Delivery,returned,2026-01-10,5
+ORD-1137,2026-10-23,Chen Khan,null,NULL,Deutschland,Electronics,Webcam,5,45.0,0,EFT,Delivered,2026-11-02,2
+ORD-1017,"Oct 02, 2026",Oliver Johnson,,0649254695,United Kingdom,Books,Data Science Handbook,1,45.0,5,Credit Card,Shipped,,
+ORD-1056,2026-01-27,Chen Silva,chen.silva15@example.com,+27820684989,South Africa,Books,SQL Cookbook,1,38.0,10,Cash on Delivery,Delivered,2026-02-01,2
+ORD-1053,2026-06-19,Maria Okafor,maria.okafor35@example.com,+27682308482,United Kingdom,Home & Kitchen,Air Fryer,2,110.0,0,PayPal,Delivered,2026-06-24,2
+ORD-1368,"Sep 22, 2026",Daniel Mokoena,daniel.mokoena37@example.com,+27774068860,australia,Sports,Water Bottle,2,12.0,20,EFT,Delivered,2026-09-29,1
+ORD-1374,2026-05-01,Nomsa Naidoo,nomsa.naidoo2@example.com,+27644925452,United Kingdom,Electronics,Webcam,2,45.0,0,PayPal,Returned,2026-05-11,5
+ORD-1147,2026-09-03,Emily Van der Merwe,emily.vandermerwe19@example.com,NULL,Australia,Home & Kitchen,Air Fryer,5,110.00 USD,15,EFT,Delivered,2026-09-13,3
+ORD-1431,2026-04-09,Priya Mokoena,priya.mokoena69@example.com,+27685671119,Germany,Electronics,USB-C Hub,2,35.0,0,Cash on Delivery,Delivered,2026-04-13,null
+ORD-1303,2026-10-15,Hannah Jones,hannah.jones87@example.com,+27800754481,Kenya,Sports,Water Bottle,1,12.0,10,Credit Card,Delivered,2026-10-20,1
+ORD-1040,2026/08/01,Nomsa Naidoo,nomsa.naidoo70@example.com,+27725070603,Germany,Electronics,Bluetooth Speaker,4,60.0,5 %,Cash on Delivery,Cancelled,,
+1171,2026/06/03,James Okafor,james.okafor8@example.com,+27750964329,Germany,Books,Statistics Primer,5,30.0,0,Credit Card,Delivered,2026-06-09,3
+ORD-1009,"Feb 02, 2026",Kwame Van der Merwe,kwame.vandermerwe77@example.com,+27725641184,Kenya,Sports,Yoga Mat,1,20.0,0.15,Credit Card,Cancelled,2026-09-01,5
+ORD-1384,27/09/2026,Sofia Garcia  ,sofia.garcia72@example.com,+27801110328,Kenya,Books,Statistics Primer,1,30.0,20,Credit Card,Delivered,2026-10-07,4
+ord-1401,27-06-26,Maria Lee,maria.lee81@example.com,+27681155075,US,Sports,Yoga Mat,3,20.0,5,PayPal,Cancelled,,
+ORD-1187,2026-05-18,  James Van der Merwe,james.vandermerwe92@example.com,NULL,Australia,Home & Kitchen,Blender,3,70.0,0,Debit Card,Delivered,2026-05-25,4
+ORD-1457,24-09-26,Ahmed Garcia,ahmed.garcia41@example.com,+27746998627,South Africa,Electronics,Wireless Mouse,1,25.0,5%,PayPal,Delivered,2026-10-04,3
+ORD-1211,16/03/2026,Ahmed Williams,ahmed.williams98@example.com,+27826440246,Australia,Books,SQL Cookbook,2,38.0,10,EFT,Delivered,2026-03-25,4
+ORD-1335,2026-01-09,Liam Jones,liam.jones20@example.com,+27762540627,South Africa,Home & Kitchen,Blender,5,70.0,10,Credit  Card,Delivered,2026-01-13,1
+ORD-1479,2026-09-06,  Lerato Jones  ,lerato.jones19@example.com,+27658026393,Kenya,Books,Data Science Handbook,4,45.00 USD,0,Debit Card,Delivered,2026-09-12,3
+ORD-1109,2026-03-30,Lerato Williams,lerato.williams91@example.com,27717509841,Germany,Home & Kitchen,Knife Set,3,55.0,0,Credit Card,delivered,2026-04-02,3
+ord-1321,12/04/2026,Fatima Silva,fatima.silva43@example.com,+27695868599,USA,Home & Kitchen,Air Fryer,3,110.0,10,EFT,Delivered,2026-04-20,4
+ORD-1058,2026-01-31,Daniel Patel  ,daniel.patel98@example.com,+27655777640,Australia,Home&Kitchen,Knife Set,1,55.0,0,Credit Card,Delivered,2026-02-04,2
+ORD-1087,2026-03-16,James Mokoena,james.mokoena23@example.com,+27629508128,australia,Electronics,Bluetooth Speaker,1,60.00 USD,0,Credit Card,Shipped,,
+ORD-1304,2026-04-13,CHEN GARCIA,CHEN.GARCIA37@EXAMPLE.COM,+27783446194,UK,Home & Kitchen,Air Fryer,3,110.0,0,EFT,Shipped,,null
+ORD-1128,2026/01/16,James Okafor,james.okafor5@example.com,+27633884614,South Africa,Home & Kitchen,Knife Set,3,55.0,5,Debit Card,Returned,2026-01-21,4
+ORD-1213,02/02/2026,Yuki Van der Merwe,yuki.vandermerwe28@example.com,N/A,united states,Books,SQL Cookbook,3,$38.00,20,EFT,Delivered,2026-02-07,5
+ORD-1079,08-06-26,Oliver Dlamini,oliver.dlamini75@example.com,0697941691,Australia,Home & Kitchen,Air Fryer,3,110.00 USD,0,PayPal,Shipped,,
+ORD-1033,2026-06-17,Kwame Brown,,+27634168559,United States,Books,Statistics Primer,4,30.0,15,EFT,Shipped,,
+ORD-1148,2026-03-19,Nomsa Khan,nomsa.khan53@example.com,+27734706147,kenya,Books,Statistics Primer,1,30.0,15,Cash on Delivery,Delivered,2026-03-27,4
+ORD-1271,"Jul 12, 2026",Maria Okafor,maria.okafor33@example.com,27658575047,unknown,Sports,Water Bottle,5,$12.00,0,Cash on Delivery,Delivered,2026-07-20,5
+ORD-1305,2026-02-22,Daniel Williams,daniel.williams96 @ example.com,+27773709803,Kenya,Books,Data Science Handbook,5,45.0,20,Credit Card,Shipped,,
+ORD-1008,2026-10-26,Kwame Lee,kwame.lee29@example.com,+27637133144,kenya,Books,Data Science Handbook,1,45.0,20,Cash on Delivery,Delivered,2026-10-31,4
+ORD-1143,2026-05-28,Sipho Van der Merwe,sipho.vandermerwe65@example.com,+27720891082,Kenya,Sports,Yoga Mat,2,20.0,0,PayPal,Delivered,2026-06-05,2
+ORD-1116,2026-05-26,Sipho Garcia,sipho.garcia35@example.com,+27720613208,Kenya,Home & Kitchen,Blender,1,70.0,0,EFT,Shipped,,
+ORD-1296,2026-06-05,Carlos Khan,carlos.khan84@example.com,+27780247529,Germany,Sports,Running Belt,1,15.0,20,Cash on Delivery,Delivered,2026-06-13,5
+ORD-1279,"Mar 08, 2026",Daniel Jones,daniel.jones82@example.com,+27715268794,Germany,Books,SQL Cookbook,4,38.0,0,Debit Card,Delivered,2026-03-16,1
+ord-1435,2026-06-08,Oliver Silva,oliver.silva30@example.com,null,United States,Sports,Running Belt,4,15.0,0,EFT,Delivered,2026-06-16,3
+ORD-1414,2026-03-23,  Kwame Van der Merwe  ,unknown,+27806228311,United States,Sports,Dumbbell Set,2,90.0,20,Debit Card,Delivered,2026-03-26,4
+ORD-1268,16/01/2026,Sofia Lee  ,sofia.lee63@example.com,+27759 462 362,Germany,Home & Kitchen,Blender,5,70.0,10,Debit Card,Delivered,2026-01-23,1
+1456,2026-08-10,daniel mokoena,daniel.mokoena43@example.com,+27672565115,United Kingdom,Electronics,USB-C Hub,5,35.0,5,PayPal,Delivered,2026-08-16,N/A
+ORD-1253,2026-02-07,Lerato Brown,lerato.brown3@example.com,+27685554919,United Kingdom,Electonics,Wireless Mouse,3,25.0,0,Cash on Delivery,Cancelled,,
+ORD-1418,23/10/2026,Daniel Brown,daniel.brown43example.com,+27847063886,South Africa,Electronics,Wireless Mouse,4,25.0,0 %,Cash on Delivery,Delivered,2026-10-28,4
+ORD-1119,2026-03-18,Yuki Jones,yuki.jones15@example.com,+27808352254,United Kingdom,Home & Kitchen,Knife Set,1,55.0,0,Credit Card,Delivered,2026-03-28,1
+ORD-1258,2026-01-23,Chen Okafor,chen.okafor60@example.com,+27670706116,United States,Sports,Yoga Mat,2,20.0,20,Cash on Delivery,Delivered,2026-01-27,3
+ORD-1142,2026-08-29,Priya Nkosi,priya.nkosi14@example.com,+27715676292,United States,Sports,Running Belt,4,15.0,0,Cash on Delivery,Delivered,2026-09-04,3
+ORD-1332,2026-05-05,Lerato Johnson,lerato.johnson74@example.com,+27759007115,USA,Home & Kitchen,Air Fryer,5,110.0,0,EFT,Delivered,2026-05-10,5
+ORD-1133,2026-02-14,Sipho Brown,-,+27792450397,Australia,Books,Statistics Primer,4,30.0,20,Debit Card,Deliverd,2026-02-18,10
+ORD-1060,2026-10-06,Sofia Johnson,sofia.johnson35@example.com,+27821897112,United States,ELECTRONICS,Wireless Mouse,2,25.0,20,Credit Card,delivered,2026-10-13,4
+ORD-1460,2026-08-07,  Ahmed Mokoena,ahmed.mokoena21@example.com,+27809575962,South Africa,Sports,Yoga Mat,4,20.0,5,PayPal,Delivered,2026-08-14,3
+ORD-1427,2026-03-26,  Fatima Van der Merwe  ,fatima.vandermerwe24@example.com,+27759770600,South Africa,Sports,Running Belt,1,15.0,0.0,CREDIT CARD,Delivered,2026-04-01,N/A
+ORD-1286,14/04/2026,Maria Jones,unknown,+27643049960,S. Africa,Books,Data Science Handbook,4,45.0,0,Cash on Delivery,Delivered,2026-04-18,1
+ORD-1402,2026-03-19,Ahmed Van der Merwe,N/A,+27636845633,South Africa,Books,Statistics Primer,5,30.0,20,Cash on Delivery,Delivered,2026-03-28,2
+ORD-1212,2026-02-08,Sipho Van der Merwe,sipho.vandermerwe66@example.com,+27801273544,United Kingdom,Sports,Water Bottle,4,12.0,0 %,Debit Card,Delivered,2026-02-12,4
+ORD-1242,2026-05-24,Kwame Johnson,kwame.johnson54@example.com,+27653541546,Australia,Home & Kitchen,Air Fryer,4,110.0,20,Paypal,Shipped,,
+ORD-1385,27-03-26,Emily Van der Merwe,emily.vandermerwe65@example.com,+27690600420,Australia,Home & Kitchen,Blender,3,70.0,0,EFT,Delivered,2026-04-04,4
+ORD-1311,2026-07-04,Priya Khan,priya.khan97@example.com,+27765968435,Kenya,Books,Statistics Primer,1,30.0,0,Cash on Delivery,Delivered,2026-07-10,5
+ORD-1366,2026-08-29,Yuki Nkosi,yuki.nkosi89@example,+27847521219,germany,Books,SQL Cookbook,1,$38.00,20,Cash on Delivery,Delivered,2026-09-04,1
+ORD-1249,2026-03-31,Yuki Lee,yuki.lee29@example.com,27778652297,Kenya,Home&Kitchen,Blender,3,70.0,15,Cash on Delivery,Delivered,2026-04-05,1
+ORD-1292,"May 14, 2026",Ahmed Nkosi,ahmed.nkosi91@example.com,+27833091169,Australia,Home & Kitchen,Knife Set,5,55.0,10,PayPal,Delivered,2026-05-18,4
+ORD-1293,2026/09/04,  Maria Van der Merwe  ,maria.vandermerwe20@example.com,27825226210,kenya,Electronics,Wireless Mouse,2,25.0,10,Credit Card,Cancelled,,
+ORD-1447,18/05/2026,Nomsa Lee,nomsa.lee5@example.com,0610164317,Kenya,Books,Statistics Primer,3,30.0,0,Cash on Delivery,DELIVERED,2026-05-22,2
+ORD-1330,2026-09-07,hannah nkosi,hannah.nkosi65@example.com,+27836769264,United States,Books,Data Science Handbook,2,45.0,0,PayPal,Delivered,2026-09-13,2
+ORD-1288,2026/02/21,Emily Dlamini,,+27696694387,Australia,sports,Water Bottle,1,12.0,0,PayPal,Cancelled,,
+ORD-1410,"Jul 22, 2026",Lerato Van der Merwe,lerato.vandermerwe67@example.com,+27805396039,AUS,Electronics,Bluetooth Speaker,3,60.0,5,Paypal,Delivered,2026-07-29,4
+ORD-1207,2026-10-17,Hannah Patel,hannah.patel74@example.com,0630657114,United Kingdom,Sports,Yoga Mat,4,20.0,10,Debit Card,Delivered,2026-10-21,2
+ORD-1295,2026-02-15,Hannah Okafor,hannah.okafor41@example.com,+27631865126,Germany,Electronics,Wireless Mouse,4,25.0,5,Cash on Delivery,Delivered,2026-02-18,1
+ORD-1201,2026-04-12,Oliver Jones,oliver.jones50@example.com,+27601194548,Australia,Home & Kitchen,Coffee Grinder,3,40.0,20,Cash on Delivery,Shipped,,
+ORD-1089,2026-09-15,Sofia Dlamini,sofia.dlamini94@example.com,+27810245894,AUS,Sports,Water Bottle,1,12.0,0.0,EFT,Returned,2026-09-24,1
+ORD-1395,2026-06-26,Daniel Nkosi,null,+27681824187,United States,Sports,Water Bottle,5,12.0,0,PayPal,Delivered,2026-07-02,3
+ORD-1331,2026/03/22,Maria Patel,maria.patel85@example.com,+27661833122,Germany,Sports,Yoga Mat,4,20.0,15%,Credit Card,Delivered,2026-03-27,4
+ORD-1198,2026-09-05,Ayesha Brown,ayesha.brown54@example.com,+27847107598,South Africa,Electronics,Bluetooth Speaker,3,60.0,0,EFT,Delivered,2026-09-15,3
+ORD-1003,"May 23, 2026",James Khan,james.khan98@example.com,+27690353911,South Africa,Electronics,Webcam,1,45.0,0%,Credit Card,cancelled,2026-09-01,5
+ORD-1463,2026-05-17,JAMES NAIDOO,james.naidoo51@example.com,+27754253818,South Africa,Books,SQL Cookbook,4,38.0,5,Credit Card,Cancelled,,
+ORD-1236,16/05/2026,Ayesha Smith,ayesha.smith21@example.com,+27816787642,Australia,Sports,Yoga Mat,2,20.0,0.2,PayPal,Canceled,,
+ORD-1358,30/07/2026,Ayesha Lee,ayesha.lee87@example.com,+27762558078,United States,Home & Kitchen,Knife Set,two,55.0,0,EFT,Delivered,2026-08-09,1
+ORD-1399,2026/07/04,Ayesha Nkosi,ayesha.nkosi38@example.com,+27832 843 717,Australia,Books,Data Science Handbook,4,45.0,10,Cash on Delivery,Returned,2026-07-12,4
+ORD 1407,2026-07-18,Hannah Silva,hannah.silva18@example.com,+27643966070,United States,Home & Kitchen,Air Fryer,4,110.0,20,PayPal,Returned,2026-07-27,2
+ORD-1446,2026/04/03,Oliver Jones,oliver.jones71@example.com,+27820136247,Germany,Books,SQL Cookbook,2,38.0,0,Cash on Delivery,Delivered,2026-04-13,2
+ORD-1155,2026-04-01,LERATO VAN DER MERWE,lerato.vandermerwe64@example.com,+27650012646,Australia,Sports,Yoga Mat,1,20.0,0,null,DELIVERED,2026-04-09,3
+ORD-1277,03-03-26,Kwame Brown,kwame.brown53@example.com,+27614512149,United States,Home & Kitchen,Coffee Grinder,3,40.0,5,PayPal,Returned,2026-03-08,
+1049,2026-09-05,Oliver Jones,oliver.jones94@example.com,+27759041194,United Kingdom,Sports,Dumbbell Set,1,90.0,0,Cash on Delivery,Cancelled,,
+ORD-1442,2026-06-05,Nomsa Lee,nomsa.lee12@example.com,+27756 424 582,SA,Books,Data Science Handbook,3,45.00 USD,0,Cash on Delivery,Delivered,2026-06-08,1
+ORD-1453,2026/03/16,Daniel Johnson  ,daniel.johnson64@example.com,+27802067821,germany,Books,Data Science Handbook,4,9999.99,15,Credit  Card,Delivered,2026-03-24,1
+ORD-1445,2026-02-06,Thabo Johnson,thabo.johnson93@example.com,+27837535497,Germany,Books,Data Science Handbook,1,45.0,0,EFT,Deliverd,2026-02-16,5
+ORD-1197,2026/06/19,Nomsa Patel,nomsa.patel2@example.com,+27626469496,United Kingdom,Home & Kitchen,Coffee Grinder,4,40.0,0,Credit Card,Delivered,2026-06-24,3
+ORD-1209,2026-08-08,emily johnson,emily.johnson27@example.com,+27818380260,United States,Electronics,Headphones,3,free,10,Debit Card,Delivered,2026-08-04,3
+ORD-1357,2026-03-25,Lerato Khan,lerato.khan33@example.com,+27727920076,Australia,Electronics,Webcam,3,45.0,0.0,Credit Card,Delivered,2026-04-01,3
+ORD-1078,2026-09-12,Priya Williams,NULL,unknown,United Kingdom,home & kitchen,Coffee Grinder,5,40.0,0,Credit Card,Delivered,2026-09-17,1
+ORD-1325,"Jan 19, 2026",Yuki Mokoena,yuki.mokoena70@example.com,+27839977520,Kenya,Books,Statistics Primer,2,30.0,0,EFT,Delivered,2026-01-26,2
+ORD-1085,2026-02-20,Maria Lee,maria.lee8@example.com,+27706874796,United Kingdom,Home and Kitchen,Air Fryer,4,110.0,0,Debit Card,Delivered,2026-02-23,1
+ORD-1272,2026-05-25,Priya Patel,priya.patel62@example.com,unknown,United Kingdom,Sports,Running Belt,3,15.0,0,PayPal,Delivered,2026-06-01,2
+ORD-1051,22/05/2026,Yuki Nkosi,yuki.nkosi67@example.com,+27651286319,South Africa,Home & Kitchen,Blender,4,70.00 USD,10,EFT,Shipped,,
+ORD-1365,2026-10-04,Sofia Smith,sofia.smith57@example.com,+27682 642 736,United Kingdom,Books,SQL Cookbook,2,38.0,0,eft,Delivered,2026-10-09,3
+ORD-1370,2026-08-13,Thabo Williams,thabo.williams12@example.com,+27640448846,unknown,Books,Data Science Handbook,3,45.0,5,Credit Card,Delivered,2026-08-21,4
+ORD-1304,2026-04-13,Chen Garcia,chen.garcia37@example.com,+27783446194,UK,Home & Kitchen,Air Fryer,3,110.0,0,EFT,Shipped,,null
+ORD-1010,2026-05-31,Nomsa Garcia,nomsa.garcia59@example.com,+27600871157,Australia,Sports,Dumbbell Set,5,90.0,0,PayPal,Canceled,2026-09-01,5
+ORD-1093,2026-02-16,Sipho Smith,sipho.smith56@example.com,+27625921316,Australia,Sports,Dumbbell Set,5,$90.00,0,EFT,Delivered,2026-02-24,1
+ORD-1065,2026/10/05,OLIVER JONES,OLIVER.JONES7@EXAMPLE.COM,+27650353805,Kenya,Sports,Water Bottle,4,free,20,EFT,Deliverd,2026-10-10,3
+ORD-1301,03-08-26,Daniel Williams,daniel.williams36@example.com,+27706802413,United Kingdom,Sports,Water Bottle,2,12.0,0,Debit Card,Delivered,2026-08-10,5
+ORD-1026,2026-03-24,Oliver Jones,oliver.jones72@example.com,+27602595690,ZA,Electronics,Bluetooth Speaker,5,60.0,0,EFT,Cancelled,2026-09-01,5
+ORD-1396,2026-02-13,  Ayesha Dlamini,ayesha.dlamini32@example.com,+27766699072,U.S.A.,Sports,Yoga Mat,3,20.0,15,EFT,Shipped,,
+ORD 1471,2026-01-24,Fatima Garcia,fatima.garcia43@example.com,+27616970997,South Africa,Sports,Dumbbell Set,4,90.0,0,PayPal,Delivered,2026-01-29,4
+ORD-1367,11-07-26,Liam Jones,liam.jones72example.com,unknown,Germany,Home & Kitchen,Coffee Grinder,4,40.0,20,CREDIT CARD,Delivered,2026-07-15,4
+ORD-1202,"Apr 06, 2026",maria naidoo,maria.naidoo26@example.com,+27722822756,ZA,Sports,Water Bottle,5,12.0,0.15,Credit Card,Delivered,2026-04-15,5
+ORD-1021,26/07/2026,Ayesha Williams,ayesha.williams75@example.com,0759590021,South Africa,electronics,Webcam,5,45.0,10,PayPal,Delivered,2026-08-01,3
+ORD-1341,2026-03-24,  Ayesha Khan  ,ayesha.khan66@@example.com,,United Kingdom,Electronics,Bluetooth Speaker,4,60.0,15,Cash on Delivery,Delivered,2026-03-29,4
+ORD-1345,2026-02-05,Sipho Brown,sipho.brown93@example,+27822738293,kenya,Sports,Running Belt,3,15.0,0 %,CREDIT CARD,delivered,2026-02-02,4
+ORD-1464,2026-07-16,HANNAH PATEL,HANNAH.PATEL73@EXAMPLE.COM,+27743694592,United Kingdom,Sports,Running Belt,4,15.0,0,Cash on Delivery,Delivered,2026-07-20,3
+ORD-1129,"Jul 10, 2026",  Oliver Smith  ,oliver.smith74@example.com,+27636962248,Kenya,Sports,Water Bottle,250,12.0,15,EFT,Delivered,2026-07-13,2
+ORD-1431,2026-04-09,PRIYA MOKOENA,PRIYA.MOKOENA69@EXAMPLE.COM,+27685671119,Germany,Electronics,USB-C Hub,2,35.0,0,Cash on Delivery,Delivered,2026-04-13,null
+ORD-1474,2026-09-13,Daniel Smith,daniel.smith81@example.com,+27821857500,United Kingdom,Sports,Water Bottle,1,12.0,10,Debit Card,Delivered,2026-09-17,5
+ORD-1333,16-10-26,Thabo Brown,thabo.brown11@example.com,+27658141353,Germany,Books,SQL Cookbook,2,38.0,0%,Cash on Delivery,Cancelled,,
+ORD-1305,2026-02-22,Daniel Williams,daniel.williams96 @ example.com,+27773709803,Kenya,Books,Data Science Handbook,5,45.0,20,Credit Card,Shipped,,
+ORD-1459,2026-02-14,Daniel Johnson,unknown,+27776199591,Australia,Home&Kitchen,Air Fryer,2,110.0,0%,Debit Card,Delivered,2026-02-18,4
+ORD-1039,2026-08-14,Sipho Brown,sipho.brown31@example.com,+27672937969,United Kingdom,Sports,Yoga Mat,2,20.0,0,Credit Card,Delivered,2026-08-19,2
+ORD-1136,2026/10/01,Sipho Garcia,sipho.garcia76@example.com,0755866109,United States,Home & Kitchen,Knife Set,5,55.0,0,Credit Card,Cancelled,,
+ORD-1120,2026-09-13,Daniel Nkosi,daniel.nkosi81example.com,+27738345119,Kenya,Home & Kitchen,Coffee Grinder,3,40.0,5,EFT,Delivered,2026-09-19,5
+ORD-1227,2026-05-11,AYESHA PATEL,ayesha.patel30@example.com,+27798851606,Kenya,ELECTRONICS,Wireless Mouse,1,25.0,0,PayPal,Delivered,2026-05-20,2
+ORD-1438,2026-10-08,Emily Silva,emily.silva50@example.com,+27617732828,United Kingdom,Home & Kitchen,Blender,4,70.0,10,PayPal,Shipped,,
+ORD-1013,2026-04-13,Priya Van der Merwe,priya.vandermerwe86@example.com,+27774450312,United Kingdom,Books,Statistics Primer,4,$30.00,0,Cash on Delivery,Delivered,2026-04-21,1
+ORD-1196,2026-10-01,Carlos Jones,carlos.jones70@example.com,+27609869072,U.K.,Electronics,Wireless Mouse,2,$25.00,15,EFT,Delivered,2026-10-04,5
+ORD-1140,2026-01-26,Priya Van der Merwe,priya.vandermerwe79@example.com,+27712242190,United States,Home & Kitchen,Knife Set,999,55.0,15,EFT,Delivered,2026-02-05,5
+ORD-1443,2026/07/03,Ayesha Brown,ayesha.brown4@example.com,+27663147071,Germany,Books,Statistics Primer,3,30.0,15,PayPal,Delivered,2026-07-12,5
+ORD-1255,2026-10-04,Chen Brown  ,chen.brown39@example.com,+27663766382,South Africa,Electronics,Webcam,5,45.0,10,Debit Card,Cancelled,,
+ORD-1468,2026-04-19,Carlos Okafor,carlos.okafor87@example.com,+27833592540,Kenya,Home & Kitchen,Coffee Grinder,1,40.0,0%,EFT,Shipped,,
+ORD-1210,2026-05-29,Fatima Mokoena,fatima.mokoena66@example.com,+27841 633 594,Australia,Electronics,Bluetooth Speaker,4,60.0,0,PayPal,Returned,2026-06-03,2
+ORD-1222,04-02-26,Thabo Mokoena,thabo.mokoena28@example.com,+27610690941,South Africa,Books,Statistics Primer,3,30.0,15,EFT,Shipped,,
+ORD-1439,"Feb 09, 2026",Fatima Silva,fatima.silva15@example.com,+27758957580,kenya,Books,SQL Cookbook,5,38.0,0,EFT,Cancelled,,
+ORD-1231,19-03-26,Thabo Jones,thabo.jones4@example.com,+27662544855,Kenya,Sports,Yoga Mat,3,20.0,0,Credit Card,Shipped,,
+ORD-1219,2026-03-05,Fatima Van der Merwe,fatima.vandermerwe45@example.com,+27715263163,United Kingdom,Home & Kitchen,Coffee Grinder,3,40.0,15,Debit Card,Delivered,2026-03-02,1
+ORD-1173,2026-10-14,Liam Silva,NULL,+27833397609,United Kingdom,Sports,Yoga Mat,2,20.0,0,Cash on Delivery,Returned,2026-10-24,2
+ord-1401,27-06-26,Maria Lee,maria.lee81@example.com,+27681155075,US,Sports,Yoga Mat,3,20.0,5,PayPal,Cancelled,,
+ORD-1416,"Sep 13, 2026",yuki nkosi,yuki.nkosi78@example.com,+27836948761,Germany,Home & Kitchen,Coffee Grinder,5,40.0,15,Cash on Delivery,Delivered,2026-09-23,1
+ORD-1424,09/10/2026,Ahmed Nkosi,ahmed.nkosi15@example.com,+27784102642,NULL,Sports,Water Bottle,5,12.0,10 %,Debit Card,Returned,2026-10-15,3
+ORD-1417,2026-01-04,Sofia Mokoena,sofia.mokoena80@example.com,+27768748036,kenya,Home & Kitchen,Air Fryer,-2,110.0,0%,Credit Card,DELIVERED,2026-01-07,2
+ORD-1181,2026-07-11,Kwame Okafor,kwame.okafor73@example.com,+27665285621,Australia,Home & Kitchen,Knife Set,1,55.0,15 %,EFT,Returned,2026-07-14,1
+ORD-1310,2026-04-05,Carlos Smith,N/A,+27642780690,Germany,Books,Data Science Handbook,3,45.0,0,Debit Card,Canceled,,
+ORD-1366,2026-08-29,Yuki Nkosi,yuki.nkosi89@example,+27847521219,germany,Books,SQL Cookbook,1,$38.00,20,Cash on Delivery,Delivered,2026-09-04,1
+ORD-1152,2026-09-03,Liam Khan,liam.khan69@example.com,+27672781634,Kenya,Sports,Dumbbell Set,1,90.0,10,Credit Card,Shipped,,
+ORD-1283,2026-10-01,Daniel Dlamini,daniel.dlamini77@example.com,+27612874264,Australia,Electronics,Wireless Mouse,1,25.0,15,Cash on Delivery,Delivered,2026-10-10,1
+ORD-1069,2026-08-17,Yuki Silva,yuki.silva45@example.com,+27689238670,kenya,Books,SQL Cookbook,3,38.0,20 %,EFT,Delivered,2026-08-23,5
+ORD 1044,14/07/2026,Chen Jones,chen.jones33@example.com,,SA,Books,Data Science Handbook,5,45.0,0,N/A,Returned,2026-07-20,1
+ORD-1282,26/07/2026,Thabo Williams,thabo.williams29@example.com,+27795197894,United States,Home & Kitchen,Air Fryer,5,110.0,10,Debit Card,Delivered,2026-07-29,4
+ORD-1131,2026-02-07,oliver garcia,oliver.garcia92@example.com,+27719483624,South Africa,Sports,Running Belt,1,$15.00,10,Debit Card,Delivered,2026-02-12,2
+ORD-1306,2026-07-15,Kwame Jones,kwame.jones88@example.com,+27683927412,Kenya,Electronics,Wireless Mouse,3,25.0,0,Cash on Delivery,Delivered,2026-07-21,3
+ORD-1081,2026-07-07,Sipho Van der Merwe,sipho.vandermerwe2@example.com,0670990059,Kenya,Electronics,Webcam,3,45.0,15,Debit Card,Shipped,,
+ORD-1344,2026-01-19,  Maria Williams,maria.williams84@example.com,+27600077113,United States,Electronics,USB-C Hub,4,35.0,0 %,Credit Card,Delivered,2026-01-25,5
+ORD-1218,16-10-26,Thabo Garcia,thabo.garcia57@example.com,+27694271235,Australia,Home & Kitchen,Coffee Grinder,4,40.0,10,PayPal,Delivered,2026-10-20,1
+ORD-1361,2026-03-27,Emily Nkosi,emily.nkosi17@example.com,27795359920,United States,Sports,Yoga Mat,2,20.0,0.0,Cash on Delivery,Delivered,2026-03-31,4
+ORD-1112,24-06-26,Hannah Khan  ,hannah.khan29@example.com,+27636927419,United States,Electronics,USB-C Hub,1,35.0,10,Debit Card,Shipped,,
+ORD-1203,2026-06-28,Maria Okafor,maria.okafor80@example.com,27646312500,Australia,Sports,Yoga Mat,3 ,20.0,0,Debit Card,DELIVERED,2026-07-02,2
+ORD-1121,2026-04-06,  SIPHO LEE  ,sipho.lee9@example.com,+27741213006,Kenya,Electronics,Webcam,4,45.0,0,Debit Card,Delivered,2026-04-13,1
+ORD-1232,2026-04-16,Carlos Williams,carlos.williams54@example.com,+27732077995,South Africa,Home & Kitchen,Knife Set,-1,55.0,0,EFT,Returned,2026-04-25,3
+ORD-1448,2026-05-24,Oliver Smith,unknown,+27838884867,NULL,Electronics,Bluetooth Speaker,4,60.0,15,Cash on Delivery,Shipped,,
+ORD-1382,2026-02-06,Thabo Khan,thabo.khan84@example.com,+27731910658,South Africa,Books,Statistics Primer,1,30.0,0,Cash on Delivery,DELIVERED,2026-02-14,11
+ORD-1107,2026-06-08,Oliver Okafor,oliver.okafor5@example.com,+27615271307,United Kingdom,Sports,Yoga Mat,1,20.0,10,Cash on Delivery,Delivered,2026-06-18,5
+ORD-1019,2026-01-02,Kwame Mokoena,kwame.mokoena59@example.com,+27676571007,Germany,Book,Data Science Handbook,2,45.0,0,,Delivered,2026-01-05,3
+ORD-1206,2026-08-01,Oliver Silva,oliver.silva22@example.com,+27622191727,kenya,Electronics,Bluetooth Speaker,3,$60.00,0,EFT,Delivered,2026-08-08,2
+ORD-1298,2026-01-24,Emily Silva  ,emily.silva18@example.com,+27820610635,Australia,Books,Data Science Handbook,3,45.0,10,EFT,Delivered,2026-02-02,2
+ORD-1138,2026-06-02,Oliver Smith,oliver.smith89@example.com,+27616082783,United States,Books,SQL Cookbook,4,38.0,5,Debit Card,Delivered,2026-06-07,3
+ORD-1243,2026-10-17,Carlos Naidoo,carlos.naidoo50@example.com,null,United States,Electronics,USB-C Hub,5,35.0,0,Cash on Delivery,Delivered,2026-10-20,4
+ORD-1423,24/01/2026,Ahmed Lee,ahmed.lee72@example.com,+27816370658,Australia,Home & Kitchen,Air Fryer,2,110.0,15,Cash on Delivery,Delivered,2026-01-31,3
+ORD-1248,2026-07-06,Sipho Lee,sipho.lee91@example.com,+27777741733,Germany,Electronics,USB-C Hub,3,35.0,0,Debit Card,Delivered,2026-07-15,4
+ORD-1354,2026-05-13,Emily Mokoena,NULL,+27672318721,Germany,Sports,Running Belt,2,15.0,5,EFT,DELIVERED,2026-05-21,3
+ORD-1312,2026/05/05,Lerato Naidoo,lerato.naidoo49@example.com,+27845868738,South Africa,Books,SQL Cookbook,5,38.0,15 %,Cash on Delivery,Delivered,2026-05-13,5
+ORD-1165,15/07/2026,Oliver Van der Merwe,oliver.vandermerwe49@example.com,+27621541943,Australia,Home & Kitchen,Knife Set,1,55.0,0 %,Credit Card,Returned,2026-07-20,2
+ORD-1375,10/07/2026,Sipho Williams,sipho.williams21@example.com,27734196041,South Africa,Sports,Yoga Mat,1,20.0,0,EFT,Delivered,2026-07-14,null
+ORD-1238,2026-02-22,James Patel,james.patel2@example.com,+27616554194,United States,Home & Kitchen,Coffee Grinder,4,40.0,0,Cash on Delivery,Delivered,2026-02-26,5
+ORD-1466,2026-02-24,MARIA SILVA,maria.silva11@example.com,+27837622864,-,Books,Statistics Primer,2,30.0,0,EFT,Delivered,2026-03-02,4
+ORD-1256,"Jan 02, 2026",Nomsa Smith,nomsa.smith38@example.com,0821163249,Australia,Books,Data Science Handbook,1,45.0,0,EFT,Delivered,2026-01-09,1
+ORD-1343,31/03/2026,Hannah Okafor,unknown,+27654145375,Australia,Sports,Dumbbell Set,1,90.0,20,PayPal,Delivered,2026-04-06,5
+ORD-1035,2026-05-26,CARLOS NAIDOO,CARLOS.NAIDOO12@EXAMPLE.COM,+27819693874,United States,Sports,Dumbbell Set,2,90.0,0,Credit Card,Delivered,2026-06-05,5
+ORD-1199,19-02-26,OLIVER OKAFOR,oliver.okafor41@example.com,+27618031975,United Kingdom,Electronics,Wireless Mouse,1,25.0,20,Cash on Delivery,Delivered,2026-02-24,2
+ORD-1391,2026-07-15,Lerato Brown,lerato.brown68@example.com,+27611054777,United Kingdom,Home & Kitchen,Knife Set,5,55.0,0.15,Cash on Delivery,Delivered,2026-07-24,4
+ORD-1086,05/05/2026,James Khan,james.khan9@example.com,+27822752528,Kenya,Home & Kitchen,Coffee Grinder,2,40.0,0,Debit Card,Shipped,,
+ORD-1351,2026-03-03,SIPHO SILVA,sipho.silva79@example.com,+27601778028,Kenya,Electronics,Webcam,3,45.0,10,PayPal,Delivered,2026-03-10,4
+ORD-1315,2026/02/14,Sipho Dlamini,sipho.dlamini23@example.com,+27813195409,United Kingdom,Electronics,Headphones,2,$80.00,0,Debit Card,Delivered,2026-02-23,4
+ORD-1473,"May 26, 2026",Nomsa Silva,nomsa.silva89@example.com,+27634062425,united states,home & kitchen,Knife Set,5,55.0,0.05,PayPal,Delivered,2026-05-29,5
+ORD-1042,12/08/2026,Hannah Nkosi,hannah.nkosi50@example.com,+27690229086,Australia,Books,Statistics Primer,2,30.0,20 %,Cash on Delivery,Delivered,2026-08-15,4
+ORD-1362,2026-01-28,Thabo Van der Merwe,thabo.vandermerwe68@example.com,+27805352149,South Africa,Electonics,USB-C Hub,5,35.0,0,PayPal,Delivered,2026-02-04,2
+ORD-1251,27-03-26,Sipho Naidoo,sipho.naidoo58@example.com,(603)058989,United Kingdom,Home & Kitchen,Coffee Grinder,1,40.0,0%,EFT,Delivered,2026-03-30,1
+ORD-1390,"Jan 20, 2026",Fatima Van der Merwe,fatima.vandermerwe11@example.com,+27809412380,South Africa,Sports,Running Belt,4,15.0,5,Credit Card,Returned,2026-01-26,5
+ORD-1294,2026-09-09,AHMED WILLIAMS,AHMED.WILLIAMS43 @ EXAMPLE.COM,+27674667236,South Africa,Home & Kitchen,Blender,4,70.0,20,EFT,Delivered,2026-09-19,5
+ORD-1065,2026/10/05,Oliver Jones,oliver.jones7@example.com,+27650353805,Kenya,Sports,Water Bottle,4,free,20,EFT,Deliverd,2026-10-10,3
+ORD-1144,2026/09/18,Kwame Dlamini,kwame.dlamini6@example.com,+27610445888,unknown,Sports,Water Bottle,5,12.0,5,Cash on Delivery,Delivered,2026-09-23,3
+ORD-1323,2026-07-04,James Naidoo,james.naidoo62@example.com,-,Germany,Sports,Running Belt,4,15.0,10,PayPal,Delivered,2026-07-08,3
+ORD-1478,16-06-26,  Sofia Patel  ,sofia.patel42@example.com,+27661144782,South Africa,Home & Kitchen,Blender,2,70.0,5,Cash on Delivery,Cancelled,,11
+ORD-1127,2026-06-29,Oliver Dlamini,oliver.dlamini94@example.com,+27833548824,United Kingdom,Books,SQL Cookbook,1,38.0,0,PayPal,Delivered,2026-07-07,5
+ORD-1168,06-05-26,Lerato Van der Merwe,lerato.vandermerwe57@example.com,+27662904970,kenya,Home & Kitchen,Air Fryer,2,110.0,10,Cash on Delivery,Returned,2026-05-14,5
+ORD-1077,22/10/2026,Priya Brown,priya.brown3@example.com,+27822811511,AUS,Book,SQL Cookbook,1,38.0,10,Cash on Delivery,Cancelled,,
+ORD-1151,2026-10-21,Yuki Van der Merwe,yuki.vandermerwe51@example.com,27819681527,United Kingdom,Home & Kitchen,Knife Set,1,55.0,0,eft,Returned,2026-10-29,4
+ORD-1275,2026-08-30,James Mokoena,james.mokoena93@example.com,+27816988154,Kenya,Home & Kitchen,Knife Set,1,55.0,0,Debit Card,Delivered,2026-09-06,4
+ORD-1444,2026-03-30,hannah johnson,hannah.johnson25@example.com,+27749094844,Germany,Sports,Water Bottle,2,12.0,0,Credit Card,Returned,2026-04-04,2
+ORD-1465,2026/06/24,Sipho Okafor,sipho.okafor98@example.com,+27805757948,U.K.,Home & Kitchen,Coffee Grinder,5,40.0,0,EFT,Returned,2026-06-30,3
+ORD-1432,29-06-26,  Yuki Naidoo,yuki.naidoo35@example.com,+27637998870,Australia,Sports,Dumbbell Set,2,90.0,0,eft,Delivered,2026-07-09,1
+ORD-1024,05/01/2026,Yuki Brown,N/A,+27627806289,United States,Sports,Yoga Mat,,$20.00,15,PayPal,Delivered,2026-01-12,5
+ORD-1376,2026-04-30,Ahmed Lee,ahmed.lee57@example.com,+27796813878,United States,Electronics,Webcam,3,45.0,15,Cash on Delivery,Delivered,2026-05-10,4
+ORD-1326,2026-09-14,Carlos Smith,carlos.smith51@example.com,0697674417,Kenya,ELECTRONICS,Bluetooth Speaker,5,9999.99,15,PayPal,Delivered,2026-09-19,4
+ORD-1220,2026-04-16,Carlos Khan,carlos.khan96@example.com,unknown,united kingdom,Electronics,Bluetooth Speaker,4,60.0,5,Credit Card,Delivered,2026-04-20,5
+ORD-1307,2026-10-07,Daniel Khan,daniel.khan93@example.com,+27651941646,United Kingdom,Books,Data Science Handbook,999,45.0,0.0,Credit Card,Returned,2026-10-11,4
+ORD-1163,2026-08-01,OLIVER DLAMINI,oliver.dlamini72@example.com,+27724118731,Australia,Sports,Yoga Mat,4,20.00 USD,0,Cash on Delivery,Shipped,,
+ORD-1192,2026-06-18,Oliver Naidoo,oliver.naidoo56@example.com,+27818 902 529,Australia,Home & Kitchen,Knife Set,3,55.0,10,PayPal,Returned,2026-06-28,3
+ORD 1194,2026-04-13,Fatima Garcia,fatima.garcia88 @ example.com,+27806055863,kenya,Electronics,Webcam,2,45.0,5,EFT,Shipped,,
+ORD-1273,2026-09-22,Sofia Dlamini,sofia.dlamini77@example.com,+27708474345,Australia,Sports,Dumbbell Set,1,90.0,15,EFT,Delivered,2026-09-29,4
+ORD-1099,2026-04-21,Carlos Patel,carlos.patel45@example.com,+27715404062,South Africa,Sports,Water Bottle,5,12.0,15,Credit Card,Delivered,2026-04-30,5
+ORD-1098,2026-02-13,Lerato Johnson,lerato.johnson21@example.com,+27802517339,kenya,Electronics,Wireless Mouse,3,25.0,5,Debit Card,Delivered,2026-02-23,4
+ORD-1067,2026-03-02,James Silva,james.silva92@example.com,0678345990,kenya,Sports,Water Bottle,4,12.0,5,PayPal,Delivered,2026-03-07,4
+ORD-1074,2026-08-09,James Williams,james.williams68@example.com,27710609298,Kenya,Home & Kitchen,Coffee Grinder,2,$40.00,0,Cash on Delivery,Delivered,2026-08-15,4
+ORD-1061,2026-08-28,Priya Van der Merwe,priya.vandermerwe35@example.com,(734)344477,kenya,Books,SQL Cookbook,1,38.0,10,Debit Card,Delivered,2026-09-05,5
+ord-1034,2026-10-08,Thabo Brown,thabo.brown37@example.com,+27656420484,Germany,Sports,Water Bottle,4,12.0,5,Credit Card,Delivered,2026-10-18,6
+ORD-1223,2026-02-12,Yuki Johnson,yuki.johnson36@example.com,+27622440419,U.K.,Electronics,Headphones,2,80.0,20,Credit Card,DELIVERED,2026-02-21,5
+ORD-1415,2026-06-08,Oliver Brown,oliver.brown81@example.com,,South Africa,Home & Kitchen,Coffee Grinder,1,40.0,10,EFT,Shipped,,
+ORD-1270,05/01/2026,Hannah Johnson,hannah.johnson83@example.com,27646493196,kenya,Electronics,Bluetooth Speaker,3,60.0,10,EFT,Shipped,,
+ORD-1088,"Mar 31, 2026",Chen Dlamini,chen.dlamini17@example.com,NULL,germany,Electronics,Wireless Mouse,4,25.0,5,EFT,shipped,,
+ORD-1339,2026-08-05,Fatima Lee,fatima.lee79@example.com,+27673970218,Australia,Books,Data Science Handbook,4,45.0,10,Debit Card,Shipped,,
+ORD-1191,09-05-26,Sofia Silva,sofia.silva77@example.com,,United States,Books,Data Science Handbook,2,45.0,0,EFT,Delivered,2026-05-17,null
+ORD-1190,2026-03-28,James Mokoena,james.mokoena39@example.com,+27672 049 900,Germany,Home & Kitchen,Air Fryer,2,110.0,5,Debit Card,Delivered,2026-04-07,1
+ORD-1413,09-05-26,  Ahmed Garcia  ,ahmed.garcia92@example.com,+27796833609,South Africa,Electronics,Wireless Mouse,4,25.0,15,Cash on Delivery,Delivered,2026-05-18,5
+ORD-1234,2026-05-14,Ahmed Van der Merwe,ahmed.vandermerwe90@example.com,(823)311410,Australia,Sports,Running Belt,4,15.0,0,Credit Card,Delivered,2026-05-19,5
+ORD-1157,2026-01-08,Ahmed Brown,ahmed.brown73@example.com,(781)033177,United States,Home & Kitchen,Blender,4,70.0,10,PayPal,Delivered,2026-01-12,2
+ORD-1108,22/01/2026,OLIVER KHAN,oliver.khan42@example.com,+27762405017,Germany,Home & Kitchen,Air Fryer,4,110.0,0%,Cash on Delivery,Shipped,,
+ORD-1378,29-09-26,  James Okafor,james.okafor38@example.com,+27819960992,United Kingdom,sports,Water Bottle,1,12.0,20,Cash on Delivery,Delivered,2026-10-04,1
+ORD-1057,"Jun 05, 2026",Sipho Williams,sipho.williams16@example.com,0749806588,Germany,Home & Kitchen,Blender,4,70.0,5,Cash on Delivery,Delivered,2026-06-14,
+ORD-1336,2026/03/08,Daniel Nkosi,daniel.nkosi87@example.com,+27774276817,Germany,Books,SQL Cookbook,1,38.0,15,Debit Card,Deliverd,2026-03-18,4
+ORD-1195,2026-09-13,James Brown,james.brown31@example.com,+27667828723,Australia,Home & Kitchen,Blender,4,70.0,0,EFT,Delivered,2026-09-23,5
+ORD-1053,2026-06-19,Maria Okafor,maria.okafor35@example.com,+27682308482,United Kingdom,Home & Kitchen,Air Fryer,2,110.0,0,PayPal,Delivered,2026-06-24,2
+ORD-1347,"May 09, 2026",Oliver Van der Merwe,oliver.vandermerwe73@example.com,+27729 823 411,United States,Sports,Water Bottle,4,12.0,10,Debit Card,Cancelled,,
+ORD-1011,11-07-26,Emily Nkosi,emily.nkosi77@example.com,+27687014979,germany,Electronics,Wireless Mouse,3,25.0,20,PayPal,Shipped,,
+ORD-1052,2026-08-18,Thabo Smith,thabo.smith38@example.com,+27659484331,Germany,Home & Kitchen,Knife Set,5,55.0,0,Cash on Delivery,Delivered,2026-08-26,4
+ORD-1381,2026-04-09,Ayesha Dlamini  ,ayesha.dlamini74@example.com,+27772268900,N/A,Books,Statistics Primer,5,30.0,15,Cash on Delivery,Delivered,2026-04-17,2
+ORD-1091,29/09/2026,Priya Okafor,priya.okafor65@example.com,+27762518017,Germany,Electronics,Wireless Mouse,5,25.0,15,PayPal,Cancelled,,
+ORD-1012,2026-10-18,Sipho Smith,sipho.smith94@example.com,+27730457070,ZA,Home & Kitchen,Coffee Grinder,4,40.00 USD,10,Cash on Delivery,Delivered,2026-10-27,null
+ORD-1451,2026-01-14,priya silva,priya.silva11@example.com,+27634043342,Kenya,Electronics,USB-C Hub,3,35.0,0,Credit Card,Delivered,2026-01-21,1
+ORD-1092,2026-07-31,Ahmed Okafor,ahmed.okafor52@example.com,+27711666371,Australia,Electronics,USB-C Hub,4,35.0,0,Credit Card,Delivered,2026-08-05,4
+ORD-1126,2026-02-10,Nomsa Garcia,nomsa.garcia70@example.com,-,United Kingdom,Electronics,Wireless Mouse,3,25.0,0.15,EFT,Delivered,2026-02-19,2
+ORD-1284,10-05-26,Hannah Johnson,hannah.johnson27@example.com,+27786614189,unknown,Electronics,USB-C Hub,4,35.0,15,Cash on Delivery,Delivered,2026-05-17,5
+ORD-1174,2026-04-15,Kwame Williams,kwame.williams71@example.com,+27686332871,United Kingdom,Books,SQL Cookbook,5,38.0,15,EFT,Delivered,2026-04-23,5
+ORD-1383,17-05-26,Carlos Dlamini,carlos.dlamini94@example.com,+27618 894 669,U.K.,Electronics,Bluetooth Speaker,5,60.0,0,PayPal,delivered,2026-05-26,2
+ORD-1369,2026-08-20,Chen Silva,chen.silva25@example.com,+27686072144,South Africa,Home & Kitchen,Air Fryer,5,110.0,0,null,Delivered,2026-08-27,3
+ORD-1135,"Jun 05, 2026",Emily Garcia,emily.garcia42@example.com,+27790409895,US,Sports,Running Belt,1,15.0,0,Debit Card,Delivered,2026-06-12,2
+ORD-1422,2026/04/30,priya khan,priya.khan1@example.com,+27631 730 987,South Africa,Books,Statistics Primer,1,30.0,15,EFT,Cancelled,,
+ORD-1090,2026-08-16,Sipho Smith,sipho.smith42@example.com,+27763288597,United States,Electronics,Bluetooth Speaker,3,60.0,10,Cash on Delivery,Delivered,2026-08-24,10
+ORD-1146,2026-08-02,Fatima Brown,fatima.brown93 @ example.com,+27834102323,Australia,Electronics,Headphones,4,80.0,0,Cash on Delivery,Returned,2026-08-08,1
+ORD-1386,2026-06-15,Daniel Williams,daniel.williams73@example.com,unknown,United States,Books,Statistics Primer,3,30.0,0,Credit Card,Returned,2026-06-24,1
+ORD-1102,2026-02-09,Ahmed Jones,ahmed.jones74@example.com,+27708561440,australia,Books,SQL Cookbook,1,38.0,5,-,Delivered,2026-02-14,5
+ORD-1476,23/03/2026,Lerato Dlamini,lerato.dlamini83@example.com,+27697762333,U.K.,Home & Kitchen,Blender,3,70.0,0,Credit Card,Delivered,2026-03-26,1
+ORD-1099,2026-04-21,Carlos Patel,carlos.patel45@example.com,+27715404062,South Africa,Sports,Water Bottle,5,12.0,15,Credit Card,Delivered,2026-04-30,5
+ORD-1185,2026-01-28,Ayesha Jones,ayesha.jones30@example.com,N/A,South Africa,Sports,Water Bottle,3,12.0,0,credit card,DELIVERED,2026-02-07,2
+ORD-1233,13-02-26,Fatima Patel,fatima.patel65@example.com,+27635839850,australia,Books,Data Science Handbook,5,45.0,10,Debit Card,Delivered,2026-02-18,2
+ORD-1324,03/10/2026,LIAM MOKOENA,liam.mokoena94@example.com,+27837923962,Australia,Electronics,Wireless Mouse,1,25.0,20,PayPal,Delivered,2026-10-12,5
+ORD-1100,2026-01-04,Liam Brown,liam.brown28@example.com,+27805983820,United States,Sports,Running Belt,3,15.0,0,PayPal,Delivered,2026-01-13,2
+ORD-1226,2026-06-21,Nomsa Mokoena,nomsa.mokoena68@example.com,27617145506,United Kingdom,electronics,Webcam,4,45.0,10,PayPal,Delivered,2026-06-26,3
+ORD-1149,2026-07-12,Ahmed Garcia,ahmed.garcia59@example.com,0844846464,Kenya,Sports,Running Belt,3,15.0,10,Debit Card,Delivered,2026-07-19,5
+ORD-1073,2026-08-11,Ayesha Patel,ayesha.patel57@example.com,+27644658206,Australia,Sports,Yoga Mat,1,20.0,0,Debit Card,Shipped,,
+ORD-1059,2026-07-29,Oliver Silva,,+27608761695,United States,Sports,Running Belt,4,$15.00,0,Credit Card,Delivered,2026-08-04,4
+ORD-1285,2026-03-12,Nomsa Patel,nomsa.patel66@example.com,+27792942338,Kenya,electronics,USB-C Hub,0,35.0,20%,Cash on Delivery,Delivered,2026-03-18,3
+ORD-1016,2026-08-05,Nomsa Okafor,nomsa.okafor94@example.com,+27614541466,Australia,Electronics,Wireless Mouse,4,25.0,0.15,PayPal,Delivered,2026-08-11,2
+ORD-1174,2026-04-15,Kwame Williams,kwame.williams71@example.com,+27686332871,United Kingdom,Books,SQL Cookbook,5,38.0,15,EFT,Delivered,2026-04-23,5
+ord-1038,2026/09/16,Nomsa Okafor,nomsa.okafor21@example.com,+27799623487,Germany,Books,SQL Cookbook,2,38.0,20,Debit Card,Delivered,2026-09-26,2
+ORD-1006,2026-10-01,Sofia Garcia,sofia.garcia60@example.com,+27701859295,United Kingdom,Home & Kitchen,Knife Set,1,55.0,0,Debit Card,Cancelled,2026-09-01,5
+ORD-1186,"Oct 11, 2026",Kwame Jones,kwame.jones24@example.com,+27782454199,Kenya,Books,Data Science Handbook,5,45.0,0,Credit Card,Shipped,,
+ORD-1004,2026-08-24,Yuki Patel,yuki.patel49@example.com,unknown,Kenya,Sports,Running Belt,5,15.0,0,Debit Card,Shipped,,
+ORD-1095,29-06-26,Yuki Lee,yuki.lee15@example.com,+27804710390,United Kingdom,Home & Kitchen,Blender,5,70.0,20,Cash on Delivery,shipped,,
+ORD-1205,08/09/2026,Priya Johnson,priya.johnson24@example.com,+27684444429,Germany,Electronics,USB-C Hub,1,35.0,5,EFT,Delivered,2026-09-18,4
+ORD-1106,2026-06-15,Ahmed Johnson,ahmed.johnson57@example.com,+27618330453,Germany,Books,Statistics Primer,3,30.0,20,Credit Card,Delivered,2026-06-23,5
+ORD-1193,"Jul 23, 2026",Ahmed Brown,ahmed.brown95@example.com,+27786551305,Australia,Books,Statistics Primer,2,30.0,0 %,Cash on Delivery,Delivered,2026-07-31,1
+ORD-1379,06-07-26,Daniel Williams,daniel.williams42@example.com,+27793542920,South Africa,Books,Data Science Handbook,3 ,45.0,15,unknown,Delivered,2026-07-11,5
+ORD-1436,2026-09-07,Thabo Smith,thabo.smith61@example.com,+27630302889,United Kingdom,Books,SQL Cookbook,2,38.0,0,Cash on Delivery,Shipped,,
+ORD-1394,26-09-26,Sofia Williams,,,Germany,Sports,Yoga Mat,1,20.00 USD,15,Debit Card,Delivered,2026-10-04,2
+ORD-1377,2026-05-31,  Yuki Silva,yuki.silva25@example.com,+27752122839,U.S.A.,Sports,Running Belt,4,15.0,0,credit card,Cancelled,,
+ORD-1405,2026-01-16,AHMED JONES,AHMED.JONES53@EXAMPLE.COM,+27681429387,Germany,Sports,Dumbbell Set,2,90.0,0,Cash on Delivery,Delivered,2026-01-23,5
+ORD-1123,"Sep 03, 2026",Emily Johnson,emily.johnson9@example.com,+27792211881,Germany,Electronics,USB-C Hub,2,35.0,0,Debit Card,Shipped,,
+ORD-1110,2026-06-18,Ayesha Van der Merwe,ayesha.vandermerwe37@example.com,+27667644603,Australia,Home & Kitchen,Knife Set,1,55.0,10,PayPal,Delivered,2026-06-25,4
+ORD-1320,2026-04-24,Daniel Mokoena,daniel.mokoena25@example.com,+27630768755,United States,Electronics,Headphones,4,80.0,15,Credit Card,Delivered,2026-04-28,3
+ORD-1239,2026/05/13,Sipho Nkosi,sipho.nkosi9@example.com,+27653083201,Australia,Books,Data Science Handbook,1,45.0,20,Credit Card,Cancelled,,
+ORD-1118,"Jan 20, 2026",Priya Silva,priya.silva90@example.com,+27823099523,USA,books,SQL Cookbook,5,38.0,0,PayPal,Cancelled,,
+ORD-1437,2026-02-22,Kwame Patel,-,0749290341,AUS,ELECTRONICS,USB-C Hub,5,35.0,5,credit card,Delivered,2026-02-28,5
+ORD-1115,"Sep 15, 2026",Carlos Jones,-,+27819282572,united states,Home & Kitchen,Knife Set,1,55.0,15,Credit Card,Delivered,2026-09-19,5
+ORD-1449,2026-10-24,Priya Dlamini,priya.dlamini44@example.com,+27743621897,south africa,Books,SQL Cookbook,5,38.0,5%,Debit Card,Delivered,2026-11-02,3
+ORD-1002,"Sep 16, 2026",Daniel Nkosi,daniel.nkosi72@example.com,+27653375074,Australia,Books,Data Science Handbook,4,45.0,10 %,Debit Card,Delivered,2026-09-21,4
+ORD-1113,2026-03-09,Daniel Van der Merwe,daniel.vandermerwe20@example.com,+27643552904,United States,Home & Kitchen,Blender,1,70.0,5,Cash on Delivery,Delivered,2026-03-15,4
+ORD-1254,17/02/2026,Ahmed Silva,ahmed.silva91@example.com,+27608319674,Deutschland,Home and Kitchen,Blender,2,70.0,0,Cash on Delivery,Delivered,2026-02-23,4
+ORD-1022,2026-05-16,Kwame Johnson,kwame.johnson86@example.com,+27773275298,United Kingdom,Books,SQL Cookbook,-1,38.0,0,Cash on Delivery,Delivered,2026-05-20,1
+ORD-1405,2026-01-16,Ahmed Jones,ahmed.jones53@example.com,+27681429387,Germany,Sports,Dumbbell Set,2,90.0,0,Cash on Delivery,Delivered,2026-01-23,5
+ORD-1233,13-02-26,Fatima Patel,fatima.patel65@example.com,+27635839850,australia,Books,Data Science Handbook,5,45.0,10,Debit Card,Delivered,2026-02-18,2
+ORD-1054,2026-09-05,Chen Brown,chen.brown13@example.com,+27823506974,United States,Sports,Dumbbell Set,3,90.0,0,Credit Card,Delivered,2026-09-10,3
+ORD-1084,2026-10-28,James Jones,james.jones84@example.com,+27626 580 917,Germany,books,SQL Cookbook,1,38.0,15,Debit Card,Delivered,2026-11-07,2
+ORD-1169,2026-06-14,  Sofia Brown,sofia.brown19@example.com,+27777224422,Kenya,Home & Kitchen,Blender,3,70.0,0%,Cash on Delivery,Delivered,2026-06-19,4
+ORD-1215,2026-03-23,Chen Smith,chen.smith84@example.com,+27696753636,United Kingdom,Electronics,USB-C Hub,2,35.0,0,Credit Card,Delivered,2026-03-29,4
+ORD-1154,2026/09/01,Hannah Khan,hannah.khan97 @ example.com,+27677106753,United Kingdom,Sports,Yoga Mat,,20.0,15,EFT,Delivered,2026-09-04,2
+ORD-1316,09-01-26,Kwame Patel,kwame.patel69@example.com,+27601583480,Australia,Electronics,Headphones,1,80.0,15,Debit Card,Canceled,,
+ORD-1172,2026-08-19,Maria Smith,maria.smith69@example.com,NULL,United States,Electronics,USB-C Hub,4,35.0,15,-,Delivered,2026-08-23,2
+ORD-1290,2026-09-02,Nomsa Garcia,nomsa.garcia15@example.com,+27635570805,Australia,Electronics,Bluetooth Speaker,1,60.0,5,PayPal,Cancelled,,11
+ord-1297,31-08-26,Maria Okafor,maria.okafor15@example.com,+27626155550,Australia,Home & Kitchen,Air Fryer,3,110.0,0,Credit Card,Cancelled,,
+ORD-1170,2026/09/11,Lerato Lee,lerato.lee83@example.com,+27780212136,Germany,Sports,Water Bottle,4,12.0,0,PayPal,Delivered,2026-09-21,2
+ORD-1455,16/03/2026,Carlos Jones,carlos.jones2@example.com,+27677522070,Germany,Books,Statistics Primer,3,30.0,10,Debit Card,Delivered,2026-03-20,5
+1308,2026-08-08,  Chen Mokoena  ,chen.mokoena17@example.com,+27643199009,kenya,Sports,Yoga Mat,3,20.0,5 %,PayPal,Shipped,,
+ORD-1240,2026-08-25,Lerato Garcia,lerato.garcia74@example.com,+27716274528,Australia,books,SQL Cookbook,1,38.0,5,CREDIT CARD,Delivered,2026-09-02,2
+ORD-1355,2026-05-24,Oliver Garcia,oliver.garcia74@example.com,+27635202401,Kenya,Home & Kitchen,Air Fryer,3,110.0,20%,PayPal,Deliverd,2026-06-02,2
+ord-1356,2026-03-18,Hannah Nkosi,hannah.nkosi23@example.com,0713151093,Germany,Home & Kitchen,Knife Set,4,55.0,0,Credit Card,Delivered,2026-03-21,4
+ORD-1244,03/07/2026,Fatima Williams,fatima.williams21@example.com,+27626879606,United States,Home & Kitchen,Knife Set,5,55.0,0.2,PayPal,Shipped,,
+ORD-1342,2026-08-11,Sipho Smith,sipho.smith34example.com,+27659530997,United Kingdom,Electronics,Headphones,1,80.0,15,Credit Card,Delivered,2026-08-18,5
+ORD-1097,2026-03-14,Thabo Smith,thabo.smith96@example.com,+27742400362,United States,books,SQL Cookbook,4,38.0,0,Cash on Delivery,Delivered,2026-03-22,5
+ORD-1175,2026-08-27,Ayesha Silva,,null,United Kingdom,Home & Kitchen,Knife Set,3,$55.00,5%,Debit Card,Delivered,2026-09-01,1
+ORD-1036,22/08/2026,Nomsa Khan,nomsa.khan92@example.com,+27786926170,Germany,Books,SQL Cookbook,two,38.0,0,PayPal,Delivered,2026-08-26,4
+ORD-1403,2026-03-20,Nomsa Brown,nomsa.brown78@example.com,+27688391699,Germany,Home & Kitchen,Coffee Grinder,2,free,10,Cash on Delivery,Delivered,2026-03-25,3
+ORD-1104,20-06-26,Emily Smith,emily.smith66@example.com,,South Africa,Home & Kitchen,Knife Set,3,55.0,15,Credit Card,Returned,2026-06-25,2
+ORD-1328,2026-01-22,Liam Lee,liam.lee50@example.com,+27726077214,Germany,Electronics,Wireless Mouse,3,25.0,0,Debit Card,Shipped,,
+ORD-1103,2026-07-05,Sipho Jones,sipho.jones14@example.com,+27665314768,Germany,Books,Statistics Primer,1,30.0,5,PayPal,Cancelled,,
+ORD-1101,2026/07/14,Yuki Williams,yuki.williams65@example.com,+27749981214,Australia,Sports,Yoga Mat,4,20.0,20,EFT,Shipped,,
+ORD-1177,08-09-26,Hannah Okafor,hannah.okafor22@example.com,+27796702048,-,Home & Kitchen,Coffee Grinder,5,40.0,5,Credit Card,Delivered,2026-09-11,5
+ORD-1217,2026-02-06,  Sofia Van der Merwe  ,sofia.vandermerwe12@example.com,27796162800,South Africa,Electronics,USB-C Hub,0,35.0,0,Cash on Delivery,Delivered,2026-02-11,N/A
+ORD-1028,2026-05-02,Emily Garcia,emily.garcia53@example.com,+27606653539,United States,Sport,Water Bottle,2,12.0,0,Credit Card,Delivered,2026-05-06,4
+ORD-1440,"Feb 05, 2026",daniel patel,daniel.patel88@example.com,+27818524370,Kenya,Books,SQL Cookbook,4,38.0,15,Cash on Delivery,Delivered,2026-02-11,2
+ORD-1287,10/09/2026,James Smith,james.smith66@example.com,(620)145600,Australia,Electronics,USB-C Hub,2,35.0,5,Credit Card,Returned,2026-09-17,4
+ORD-1428,2026-06-04,Liam Brown,liam.brown23@example.com,,U.K.,Electronics,Bluetooth Speaker,1,60.0,5,Debit Card,Delivered,2026-06-09,2
+ORD-1420,2026-03-10,Ayesha Mokoena,ayesha.mokoena43@example.com,NULL,Germany,Home & Kitchen,Coffee Grinder,5,40.0,0,Cash on Delivery,Delivered,2026-03-14,4
+ORD-1260,2026-07-22,Lerato Johnson,lerato.johnson16@example.com,+27803256308,Germany,Home & Kitchen,Coffee Grinder,2,40.0,20,EFT,Delivered,2026-07-31,1
+ORD 1122,04-02-26,  maria williams,maria.williams94@example.com,+27776390118,Australia,Electronics,Headphones,3,80.0,0,EFT,Delivered,2026-02-12,2
+ORD-1030,2026-06-29,Carlos Van der Merwe,carlos.vandermerwe87@example.com,+27826468568,Kenya,Sports,Yoga Mat,1,$20.00,0,Cash on Delivery,Delivered,2026-07-02,1
+ORD-1475,2026-10-04,carlos williams,carlos.williams60@example.com,+27806784228,Australia,home & kitchen,Knife Set,1,55.0,0,PayPal,Delivered,2026-10-14,4
+ORD-1348,2026-02-04,Kwame Williams,kwame.williams87@example.com,+27788220526,United States,Sports,Water Bottle,3,$12.00,10,Debit Card,Delivered,2026-02-11,2
+ORD-1337,22-10-26,  Ayesha Jones,ayesha.jones18@example.com,+27668321662,Germany,Home&Kitchen,Air Fryer,3,110.0,10,CREDIT CARD,cancelled,,
+ORD-1301,03-08-26,Daniel Williams,daniel.williams36@example.com,+27706802413,United Kingdom,Sports,Water Bottle,2,12.0,0,Debit Card,Delivered,2026-08-10,5
+ORD-1266,06/09/2026,Carlos Lee,carlos.lee8@example.com,+27738 316 656,United States,Electronics,USB-C Hub,5,35.0,5,PayPal,Delivered,2026-09-09,2
+ORD-1005,2026-02-10,sofia patel,sofia.patel49@example.com,+27674617971,unknown,Sports,Dumbbell Set,3,90.0,0 %,PayPal,Delivered,2026-02-14,5
+ORD-1189,2026-02-17,Daniel Naidoo,daniel.naidoo50@example.com,+27603312659,UK,Books,SQL Cookbook,1,38.0,15,EFT,Cancelled,,
+ORD-1150,26-04-26,Priya Brown,priya.brown91@example.com,+27655640709,Australia,Books,SQL Cookbook,4,38.0,0,Credit Card,Delivered,2026-05-03,3
+ORD-1176,2026-10-11,Fatima Jones,fatima.jones38@example.com,+27640912626,United States,Sports,Dumbbell Set,4,9999.99,10,Debit Card,Cancelled,,
+ORD-1309,2026/06/15,Daniel Dlamini,daniel.dlamini81@example.com,0765251195,Australia,Sports,Water Bottle,5,12.0,10,Paypal,Deliverd,2026-06-23,6
+ORD-1159,2026-05-01,Lerato Patel,lerato.patel60@example.com,+27682357700,United States,Books,Statistics Primer,5,30.0,15,Debit Card,Shipped,,
+ORD-1241,21/05/2026,Chen Okafor,chen.okafor20@example.com,+27609301138,Kenya,Home and Kitchen,Knife Set,4,55.0,5,Credit Card,Cancelled,,
+ORD-1076,2026-10-28,Priya Jones,priya.jones89@example.com,+27667135231,Germany,Sports,Dumbbell Set,4,90.0,20,Debit Card,Delivered,2026-11-06,5
+ORD-1075,15/03/2026,Sofia Okafor,sofia.okafor82@example.com,+27668176523,Germany,Sports,Yoga Mat,4,20.0,0,Debit Card,Delivered,2026-03-19,4
+1398,2026-09-27,Lerato Mokoena,lerato.mokoena22@example.com,+27616135668,United Kingdom,Home & Kitchen,Knife Set,1,55.0,5,N/A,Delivered,2026-10-01,4
+ORD-1278,2026-02-11,Hannah Naidoo,hannah.naidoo81@example.com,+27647465903,United Kingdom,Electronics,Wireless Mouse,4,$25.00,0,Credit Card,Delivered,2026-02-16,4
+ORD-1454,2026-03-01,Lerato Garcia  ,lerato.garcia60@example.com,+27707037242,Germany,Sports,Water Bottle,5,12.0,0,Debit Card,Delivered,2026-03-10,4
+ORD-1299,2026-04-08,Ahmed Patel,ahmed.patel97@example.com,+27711258537,South Africa,Electronics,Webcam,4,45.0,15,Credit Card,Delivered,2026-04-13,4
+ORD-1265,2026-02-20,Sofia Johnson,sofia.johnson39@example.com,+27799641794,Germany,Sports,Running Belt,4,15.0,10,EFT,Delivered,2026-02-18,2
+ORD-1184,2026-06-03,Emily Williams,emily.williams73@example.com,+27824049802,Germany,Sports,Water Bottle,2,12.0,20 %,Debit Card,Returned,2026-06-07,5
+ORD-1387,2026-05-26,Daniel Nkosi,daniel.nkosi67@example.com,unknown,United Kingdom,Electronics,USB-C Hub,2,35.0,0,Cash on Delivery,Cancelled,,
+ORD-1334,2026/04/04,Daniel Mokoena,daniel.mokoena22@example.com,+27794397412,Australia,Sports,Water Bottle,5,12.0,10%,Credit Card,Delivered,2026-04-13,2
+ORD-1263,2026/05/16,Kwame Silva,kwame.silva74@example.com,27763467033,Germany,Electronics,Bluetooth Speaker,3,60.0,5,EFT,Delivered,2026-05-25,1
+ORD-1224,2026-06-08,Nomsa Williams,nomsa.williams8@example.com,+27665627035,South Africa,books,Data Science Handbook,4,$45.00,10,Credit Card,Delivered,2026-06-13,1
+ORD-1300,2026-09-29,  Lerato Jones  ,lerato.jones75@example.com,(729)636061,Kenya,Home & Kitchen,Coffee Grinder,2,40.0,0,EFT,Delivered,2026-10-07,5
+ORD-1160,2026/07/08,Daniel Williams,daniel.williams29@example.com,+27635854597,Germany,Home & Kitchen,Blender,5,70.0,0,PayPal,Delivered,2026-07-18,5
+ORD 1066,2026-09-06,Ayesha Nkosi,ayesha.nkosi81@example.com,27763442743,United States,Home & Kitchen,Knife Set,5,55.0,0,EFT,Delivered,2026-09-12,11
+ORD-1031,2026-08-11,Maria Naidoo,maria.naidoo56@example.com,+27762727949,Kenya,Electronics,Webcam,5,45.00 USD,0,Cash on Delivery,Delivered,2026-08-20,null
+ORD-1023,2026-04-20,Carlos Mokoena,carlos.mokoena17@example.com,+27693686345,South Africa,Home & Kitchen,Knife Set,3,55.0,0,Cash on Delivery,Delivered,2026-04-19,5
+ORD-1409,2026-07-14,Ahmed Van der Merwe,ahmed.vandermerwe79@example.com,+27799304696,Kenya,electronics,Headphones,1,80.0,5,Cash on Delivery,Delivered,2026-07-20,5
+ORD-1071,2026-02-21,Carlos Okafor,carlos.okafor2@example.com,-,United States,Books,Statistics Primer,2,30.0,0,EFT,Delivered,2026-03-01,5
+ORD-1125,2026-03-05,Maria Jones,maria.jones52@example.com,+27799530142,Germany,Books,SQL Cookbook,2,38.0,5,EFT,Delivered,2026-03-12,1
+ORD-1096,2026-05-17,Thabo Garcia,thabo.garcia35@example.com,+27788629264,United Kingdom,Sports,Running Belt,1,15.0,0,Credit Card,Cancelled,,
+ORD-1228,2026-01-19,Yuki Jones,yuki.jones29@example.com,+27686383070,United States,Books,Statistics Primer,3,30.0,0.0,Credit Card,Cancelled,,
+ORD 1318,2026/06/01,James Brown,james.brown87@example.com,+27838096375,Australia,Sports,Yoga Mat,5,20.0,20,Cash on Delivery,Delivered,2026-06-04,1
+ORD-1372,2026/05/08,Kwame Okafor,kwame.okafor32@example.com,+27798003095,South Africa,Home & Kitchen,Blender,1,70.0,10,-,delivered,2026-05-18,
+ORD-1247,14/04/2026,James Naidoo,james.naidoo92@example.com,+27647636521,United Kingdom,Electronics,Wireless Mouse,2,25.0,10,Cash on Delivery,Shipped,,
+ORD-1216,2026-02-18,Thabo Khan,thabo.khan62@example.com,-,United States,Home & Kitchen,Blender,1,70.0,0,EFT,Delivered,2026-02-27,2
+ORD-1182,2026/07/14,Kwame Silva,unknown,+27770925760,South Africa,Home & Kitchen,Air Fryer,4,110.0,20,Credit Card,Delivered,2026-07-18,5
+ORD-1132,18-09-26,Sofia Patel,sofia.patel26@example.com,+27812618510,United States,Home & Kitchen,Blender,1,$70.00,0,PayPal,Delivered,2026-09-28,5
+ORD-1261,14/04/2026,James Mokoena,james.mokoena41@example.com,+27844492217,Australia,Electronics,Wireless Mouse,4,25.0,10,EFT,Delivered,2026-04-21,5
+ORD-1327,02-04-26,Fatima Johnson,fatima.johnson95@example.com,+27796495954,Germany,Sports,Yoga Mat,2,20.0,20,PayPal,Delivered,2026-04-09,3
